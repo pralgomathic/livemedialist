@@ -1,0 +1,30 @@
+{
+  "medialist": [
+    {
+      "sectionTitle": "TV Shows",
+      "mediaDetails": [{
+            "mediaTitle":"Holud Ronger Baina",
+            "mediaurl": "P8jOQUsTU9o"
+            },
+            {
+            "mediaTitle":"Sondehe Mondaho",
+            "mediaurl": "P8jOQUsTU9o"
+            }
+        ]
+
+    },
+    {
+      "sectionTitle": "Movies",
+      "mediaDetails": [{
+            "mediaTitle":"Holud Ronger Baina",
+            "mediaurl": "P8jOQUsTU9o"
+            },
+            {
+            "mediaTitle":"Sondehe Mondaho",
+            "mediaurl": "P8jOQUsTU9o"
+            }
+        ]
+    }
+
+  ]
+}
