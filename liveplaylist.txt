@@ -24,7 +24,7 @@
              ,
               {
               "mediaTitle":"ATN News",
-              "mediaPosterUrl":"http://cdn.bongobd.com/upload/channels/landscape/2c08GCMcP3z.png",
+              "mediaPosterUrl":"http://www.amarbarta24.com/assets/images/news_images/2015/08/22/18_8747.jpeg",
               "mediaurl": "0qf7XVPCaVs"
               }
 
