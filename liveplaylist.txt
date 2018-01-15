@@ -1,28 +1,23 @@
 {
   "medialist": [
     {
-      "sectionTitle": "TV Shows",
+      "sectionTitle": "Live TV",
       "mediaDetails": [{
-            "mediaTitle":"Holud Ronger Baina",
-            "mediaurl": "P8jOQUsTU9o"
+            "mediaTitle":"Gazi TV",
+            "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
+            "mediaurl": "d9iPHzLF8yM"
             },
             {
-            "mediaTitle":"Sondehe Mondaho",
-            "mediaurl": "P8jOQUsTU9o"
-            }
-        ]
+            "mediaTitle":"Somoy TV",
+            "mediaPosterUrl":"http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
+            "mediaurl": "DPYDaT7UMNw"
+            },
+             {
+             "mediaTitle":"NTV",
+             "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/181px-NTV_%28Bangladesh%29_logo.svg.png",
+             "mediaurl": "k6p7XaLEACU"
+             }
 
-    },
-    {
-      "sectionTitle": "Movies",
-      "mediaDetails": [{
-            "mediaTitle":"Holud Ronger Baina",
-            "mediaurl": "P8jOQUsTU9o"
-            },
-            {
-            "mediaTitle":"Sondehe Mondaho",
-            "mediaurl": "P8jOQUsTU9o"
-            }
         ]
     }
 
