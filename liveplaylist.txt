@@ -26,7 +26,12 @@
               "mediaTitle":"ATN News",
               "mediaPosterUrl":"http://www.amarbarta24.com/assets/images/news_images/2015/08/22/18_8747.jpeg",
               "mediaurl": "0qf7XVPCaVs"
-              }
+              },
+                 {
+                 "mediaTitle":"RTV",
+                 "mediaPosterUrl":"http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg",
+                 "mediaurl": "5KWuqjczFqI"
+                 }
 
         ]
     }
