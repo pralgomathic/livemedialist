@@ -21,6 +21,12 @@
              "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/181px-NTV_%28Bangladesh%29_logo.svg.png",
              "mediaurl": "k6p7XaLEACU"
              }
+             ,
+              {
+              "mediaTitle":"ATN News",
+              "mediaPosterUrl":"http://cdn.bongobd.com/upload/channels/landscape/2c08GCMcP3z.png",
+              "mediaurl": "0qf7XVPCaVs"
+              }
 
         ]
     }
