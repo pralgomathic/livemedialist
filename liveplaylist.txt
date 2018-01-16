@@ -55,7 +55,7 @@
                {
                    "mediaTitle":"Al Jazeera English",
                    "mediaPosterUrl":"http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_al_jazlogo.jpg",
-                   "mediaurl": "onVHt1_SWTZg"
+                   "mediaurl": "nVHt1_SWTZg"
                }
         ]
     }
