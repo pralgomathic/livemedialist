@@ -51,6 +51,11 @@
                    "mediaTitle":"ABC News(Australia)",
                    "mediaPosterUrl":"https://www.morrowsodali.com/images/news/1507545627-abc-news-og-data.jpg",
                    "mediaurl": "oYO-itBizz0"
+               },
+               {
+                   "mediaTitle":"Al Jazeera English",
+                   "mediaPosterUrl":"http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_al_jazlogo.jpg",
+                   "mediaurl": "onVHt1_SWTZg"
                }
         ]
     }
