@@ -43,14 +43,19 @@
                    "mediaurl": "iN1P9H10akY"
                },
                {
-                   "mediaTitle":"Jamuna TV",
-                   "mediaPosterUrl":"http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg",
-                   "mediaurl": "3UdSg3hAvAY"
+                   "mediaTitle":"DW News",
+                   "mediaPosterUrl":"http://db.radioline.fr/pictures/radio_05461441af82e70f5c4bf24dd3961b18/logo200.jpg",
+                   "mediaurl": "DNm82YuLhpo"
                },
                {
                    "mediaTitle":"Bloomberg Global News",
                    "mediaPosterUrl":"https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
                    "mediaurl": "Ga3maNZ0x0w"
+               },
+               {
+                   "mediaTitle":"ABC News(Australia)",
+                   "mediaPosterUrl":"https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
+                   "mediaurl": "oYO-itBizz0"
                }
         ]
     }
