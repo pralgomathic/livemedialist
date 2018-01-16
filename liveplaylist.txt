@@ -31,7 +31,17 @@
                  "mediaTitle":"RTV",
                  "mediaPosterUrl":"http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg",
                  "mediaurl": "5KWuqjczFqI"
-             }
+             },
+               {
+                   "mediaTitle":"Channel 24",
+                   "mediaPosterUrl":"http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg",
+                   "mediaurl": "vWFZ0X1EW8o"
+               },
+               {
+                   "mediaTitle":"News 24",
+                   "mediaPosterUrl":"http://munshiganjtoday.net/sites/default/files/styles/medium/public/2017-07/maxresdefault.jpg",
+                   "mediaurl": "iN1P9H10akY"
+               }
         ]
     }
 
