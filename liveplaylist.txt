@@ -41,6 +41,11 @@
                    "mediaTitle":"News 24",
                    "mediaPosterUrl":"http://munshiganjtoday.net/sites/default/files/styles/medium/public/2017-07/maxresdefault.jpg",
                    "mediaurl": "iN1P9H10akY"
+               },
+               {
+                   "mediaTitle":"Jamuna TV",
+                   "mediaPosterUrl":"http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg",
+                   "mediaurl": "3UdSg3hAvAY"
                }
         ]
     }
