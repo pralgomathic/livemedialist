@@ -54,7 +54,7 @@
                },
                {
                    "mediaTitle":"ABC News(Australia)",
-                   "mediaPosterUrl":"https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
+                   "mediaPosterUrl":"https://www.morrowsodali.com/images/news/1507545627-abc-news-og-data.jpg",
                    "mediaurl": "oYO-itBizz0"
                }
         ]
