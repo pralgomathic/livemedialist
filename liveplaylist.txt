@@ -66,6 +66,21 @@
                    "mediaTitle":"FOX News",
                    "mediaPosterUrl":"http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
                    "mediaurl": "ceFBKpZCtuI"
+               },
+               {
+                   "mediaTitle":"Euronews English",
+                   "mediaPosterUrl":"https://www.ashurbeyli.ru/public/article/images/47adfe79c73d5ee1104f9ee596ef872529d2637a.jpg",
+                   "mediaurl": "xAE4xX8Izvo"
+               },
+               {
+                   "mediaTitle":"Sky News",
+                   "mediaPosterUrl":"https://pbs.twimg.com/profile_images/880366112751456257/GKkxouK6.jpg",
+                   "mediaurl": "XOacA3RYrXk"
+               },
+               {
+                   "mediaTitle":"FRANCE 24 English",
+                   "mediaPosterUrl":"http://www.noticieroglobal.net/uploads/6/1/6/3/61636759/2266193.png",
+                   "mediaurl": "9c_Bac-17Rk"
                }
         ]
     }
