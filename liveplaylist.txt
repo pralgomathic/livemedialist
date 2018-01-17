@@ -56,6 +56,11 @@
                    "mediaTitle":"Al Jazeera English",
                    "mediaPosterUrl":"http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_al_jazlogo.jpg",
                    "mediaurl": "nVHt1_SWTZg"
+               },
+               {
+                   "mediaTitle":"CNN News",
+                   "mediaPosterUrl":"http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2015/02/cnn400.jpg",
+                   "mediaurl": "3XVpIX053ck"
                }
         ]
     }
