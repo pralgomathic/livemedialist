@@ -1,8 +1,8 @@
 {
    "mediaTitle":"Gazi TV",
     "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
-    "mediaurl": "d9iPHzLF8yM",
-    "mediaDescription":"Bangladesh Tri Nation Series 2018 LIVE Match Today SL vs ZIM",
+    "mediaurl": "2c73M-oPepU",
+    "mediaDescription":"Bangladesh Tri Nation Series 2018 LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
