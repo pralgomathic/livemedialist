@@ -65,7 +65,7 @@
                {
                    "mediaTitle":"CNN News",
                    "mediaPosterUrl":"http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2015/02/cnn400.jpg",
-                   "mediaurl": "3XVpIX053ck"
+                   "mediaurl": "kaSLv7cGlEs"
                },
                {
                    "mediaTitle":"FOX News",
