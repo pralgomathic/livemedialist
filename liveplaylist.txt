@@ -19,7 +19,7 @@
              {
              "mediaTitle":"NTV",
              "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/181px-NTV_%28Bangladesh%29_logo.svg.png",
-             "mediaurl": "awv2r0WA_kA"
+             "mediaurl": "0UxKSvADEs4"
              }
              ,
               {
