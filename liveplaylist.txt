@@ -86,6 +86,21 @@
                    "mediaTitle":"FRANCE 24 English",
                    "mediaPosterUrl":"http://www.noticieroglobal.net/uploads/6/1/6/3/61636759/2266193.png",
                    "mediaurl": "9c_Bac-17Rk"
+               },
+               {
+                   "mediaTitle":"ABC 7 SWFL",
+                   "mediaPosterUrl":"http://ftpcontent.worldnow.com/wncustom/custom/wzvn/wzvn_og_image.jpg",
+                   "mediaurl": "dV2z7tGeVoI"
+               },
+               {
+                   "mediaTitle":"CNN-NEWS18 (India)",
+                   "mediaPosterUrl":"https://lifeandtrendz.com/wp-content/uploads/2016/11/CNN-374x233.jpg",
+                   "mediaurl": "CKTTo7oiEu0"
+               },
+               {
+                   "mediaTitle":"India Today",
+                   "mediaPosterUrl":"https://102tube.com/Content/images/channel/Yw/UCYPvAwZP8pZhSMW8qs7cVCw.jpg",
+                   "mediaurl": "U5OfAuztJpk"
                }
         ]
     }
