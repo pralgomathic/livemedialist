@@ -101,6 +101,11 @@
                    "mediaTitle":"India Today",
                    "mediaPosterUrl":"https://102tube.com/Content/images/channel/Yw/UCYPvAwZP8pZhSMW8qs7cVCw.jpg",
                    "mediaurl": "U5OfAuztJpk"
+               },
+               {
+                   "mediaTitle":"CBS News",
+                   "mediaPosterUrl":"https://www.lifenaut.com/blog/wp-content/uploads/2015/11/cbs-logo.png",
+                   "mediaurl": "pvw4Sa6EsHY"
                }
         ]
     }
