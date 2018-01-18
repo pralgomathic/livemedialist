@@ -94,7 +94,7 @@
                },
                {
                    "mediaTitle":"CNN-NEWS18 (India)",
-                   "mediaPosterUrl":"https://lifeandtrendz.com/wp-content/uploads/2016/11/CNN-374x233.jpg",
+                   "mediaPosterUrl":"https://pbs.twimg.com/media/Cu86myGVMAE3bLD.jpg",
                    "mediaurl": "CKTTo7oiEu0"
                },
                {
