@@ -126,6 +126,11 @@
                    "mediaTitle":"BOL Network",
                    "mediaPosterUrl":"http://www.customercarepk.com/wp-content/uploads/2016/07/bol-tv-300x300.png",
                    "mediaurl": "1EEBP23D7Co"
+               },
+               {
+                   "mediaTitle":"Africanews",
+                              "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png",
+                   "mediaurl": "JkYQdcEHL6I"
                }
         ]
     }
