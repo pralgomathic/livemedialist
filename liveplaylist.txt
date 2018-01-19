@@ -116,6 +116,11 @@
                    "mediaTitle":"TV2 AUSTRALIA",
                    "mediaPosterUrl":"https://102tube.com/Content/images/channel/OQ/UCO7e_DD3X2ZqOyp4DCFgEXQ.jpg",
                    "mediaurl": "hfFLNPzQn6w"
+               },
+               {
+                   "mediaTitle":"ANN7 South Africa",
+                   "mediaPosterUrl":"https://cdn.apk-cloud.com/detail/image/com.ionicframework.ann7555243-w250.png",
+                   "mediaurl": "gnNeR1NTB4k"
                }
         ]
     }
