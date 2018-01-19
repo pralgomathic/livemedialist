@@ -121,6 +121,11 @@
                    "mediaTitle":"ANN7 South Africa",
                    "mediaPosterUrl":"https://cdn.apk-cloud.com/detail/image/com.ionicframework.ann7555243-w250.png",
                    "mediaurl": "gnNeR1NTB4k"
+               },
+               {
+                   "mediaTitle":"BOL Network",
+                   "mediaPosterUrl":"http://www.customercarepk.com/wp-content/uploads/2016/07/bol-tv-300x300.png",
+                   "mediaurl": "1EEBP23D7Co"
                }
         ]
     }
