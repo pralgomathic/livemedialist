@@ -1,8 +1,8 @@
 {
    "mediaTitle":"Live Games",
     "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
-    "mediaurl": "nWNhD7JMQ98",
-    "mediaDescription":"Round of 32 & 16 - 2018 Swedish Badminton Open LIVE",
+    "mediaurl": "gYLpY3i8tRg",
+    "mediaDescription":"Swedish 2018 Badminton Open LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
