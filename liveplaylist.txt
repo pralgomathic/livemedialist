@@ -94,7 +94,7 @@
                },
                {
                    "mediaTitle":"CNN-NEWS18 (India)",
-                   "mediaPosterUrl":"https://pbs.twimg.com/media/Cu86myGVMAE3bLD.jpg",
+                   "mediaPosterUrl":"http://tvimages.burrp.com/images/channels1/news/CNN%20News%2018.png",
                    "mediaurl": "CKTTo7oiEu0"
                },
                {
