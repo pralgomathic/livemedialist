@@ -1,8 +1,8 @@
 {
    "mediaTitle":"Live Games",
     "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
-    "mediaurl": "77f_KPFFNRQ",
-    "mediaDescription":"JUST 2018 World Indoor Bowls Championships: Session 20",
+    "mediaurl": "FLgPWU7njE8",
+    "mediaDescription":"Exploring the African wilderness in safari vehicles and on foot-SAFARI LIVE ",
   "medialist": [
     {
       "sectionTitle": "Live TV",
