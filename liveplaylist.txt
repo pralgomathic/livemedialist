@@ -1,8 +1,8 @@
 {
    "mediaTitle":"Live Games",
     "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
-    "mediaurl": "sDTC3oCdUwg",
-    "mediaDescription":"Fortnite Battle Royale LIVE",
+    "mediaurl": "O6IyhumqMKc",
+    "mediaDescription":"CS:GO Eleague Major Boston 2018 LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
