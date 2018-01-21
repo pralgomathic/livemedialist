@@ -1,8 +1,8 @@
 {
    "mediaTitle":"Live Games",
     "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
-    "mediaurl": "ztqEQQ-oYbw",
-    "mediaDescription":"TNT KaTropa vs Meralco Bolts | PBA Philippine Cup 2018 Eliminations",
+    "mediaurl": "d9iPHzLF8yM",
+    "mediaDescription":"Bangladesh Tri-Nation Series 2018 ZIM vs SL LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
