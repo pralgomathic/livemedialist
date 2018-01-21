@@ -1,8 +1,8 @@
 {
    "mediaTitle":"Live Games",
     "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
-    "mediaurl": "B3rouvomevw",
-    "mediaDescription":"WD | CHEN (CHN)/JIA (CHN) [1] vs JUHL (DEN) [3]/PEDERSEN (DEN) | BWF 2018",
+    "mediaurl": "ztqEQQ-oYbw",
+    "mediaDescription":"TNT KaTropa vs Meralco Bolts | PBA Philippine Cup 2018 Eliminations",
   "medialist": [
     {
       "sectionTitle": "Live TV",
