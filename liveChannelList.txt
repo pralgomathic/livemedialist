@@ -1,0 +1,140 @@
+{  
+   "mediaTitle":"Live Games",
+   "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
+   "mediaurl":"UCamIOBkS-fjn-YhNAd-rw1A",
+   "mediaDescription":"LIVE DOTA 2 TOURNAMENT",
+   "medialist":[  
+      {  
+         "sectionTitle":"Live TV",
+         "mediaDetails":[  
+            {  
+               "mediaTitle":"Gazi TV",
+               "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
+               "mediaurl":"UCCNGtLTGyYKm6RhVzrnyPCA"
+            },
+            {  
+               "mediaTitle":"Somoy TV",
+               "mediaPosterUrl":"http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
+               "mediaurl":"UCNUFterLJ9vpFZZ0try7sLA"
+            },
+            {  
+               "mediaTitle":"NTV",
+               "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/181px-NTV_%28Bangladesh%29_logo.svg.png",
+               "mediaurl":"UCYqujAD5831EywH1jldBu5w"
+            },
+            {  
+               "mediaTitle":"ATN News",
+               "mediaPosterUrl":"http://www.amarbarta24.com/assets/images/news_images/2015/08/22/18_8747.jpeg",
+               "mediaurl":"UCKlhfq1ILoAFav7iw5iCnfA"
+            },
+            {  
+               "mediaTitle":"RTV",
+               "mediaPosterUrl":"http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg",
+               "mediaurl":"UCR0hSGudjeZfnGL3uodU9Sw"
+            },
+            {  
+               "mediaTitle":"Channel 24",
+               "mediaPosterUrl":"http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg",
+               "mediaurl":"UCHLqIOMPk20w-6cFgkA90jw"
+            },
+            {  
+               "mediaTitle":"News 24",
+               "mediaPosterUrl":"http://munshiganjtoday.net/sites/default/files/styles/medium/public/2017-07/maxresdefault.jpg",
+               "mediaurl":"UCPREnbhKQP-hsVfsfKP-mCw"
+            },
+            {  
+               "mediaTitle":"DBC News",
+               "mediaPosterUrl":"https://www.dbcnews.tv/images/default_news.png",
+               "mediaurl":"UCUvXoiDEKI8VZJrr58g4VAw"
+            },
+            {  
+               "mediaTitle":"Bloomberg Global News",
+               "mediaPosterUrl":"https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
+               "mediaurl":"UCUMZ7gohGI9HcU9VNsr2FJQ"
+            },
+            {  
+               "mediaTitle":"ABC News(Australia)",
+               "mediaPosterUrl":"https://www.morrowsodali.com/images/news/1507545627-abc-news-og-data.jpg",
+               "mediaurl":"UCVgO39Bk5sMo66-6o6Spn6Q"
+            },
+            {  
+               "mediaTitle":"Al Jazeera English",
+               "mediaPosterUrl":"http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_al_jazlogo.jpg",
+               "mediaurl":"UCNye-wNBqNL5ZzHSJj3l8Bg"
+            },
+            {  
+               "mediaTitle":"CNN News",
+               "mediaPosterUrl":"http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2015/02/cnn400.jpg",
+               "mediaurl":"UCBPYLh0dE0gb2D2ROLWmkHw"
+            },
+            {  
+               "mediaTitle":"FOX News",
+               "mediaPosterUrl":"http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
+               "mediaurl":"UCOqCZ6TOnYKuKX4B18hyxWg"
+            },
+            {  
+               "mediaTitle":"Euronews English",
+               "mediaPosterUrl":"https://www.ashurbeyli.ru/public/article/images/47adfe79c73d5ee1104f9ee596ef872529d2637a.jpg",
+               "mediaurl":"UCSrZ3UV4jOidv8ppoVuvW9Q"
+            },
+            {  
+               "mediaTitle":"Sky News",
+               "mediaPosterUrl":"https://pbs.twimg.com/profile_images/880366112751456257/GKkxouK6.jpg",
+               "mediaurl":"UCoMdktPbSTixAyNGwb-UYkQ"
+            },
+            {  
+               "mediaTitle":"FRANCE 24 English",
+               "mediaPosterUrl":"http://www.noticieroglobal.net/uploads/6/1/6/3/61636759/2266193.png",
+               "mediaurl":"UCQfwfsi5VrQ8yKZ-UWmAEFg"
+            },
+            {  
+               "mediaTitle":"ABC 7 SWFL",
+               "mediaPosterUrl":"http://ftpcontent.worldnow.com/wncustom/custom/wzvn/wzvn_og_image.jpg",
+               "mediaurl":"UCq9e_hCv2jvgck8WowW1NXg"
+            },
+            {  
+               "mediaTitle":"CNN-NEWS18 (India)",
+               "mediaPosterUrl":"http://tvimages.burrp.com/images/channels1/news/CNN%20News%2018.png",
+               "mediaurl":"UCef1-8eOpJgud7szVPlZQAQ"
+            },
+            {  
+               "mediaTitle":"India Today",
+               "mediaPosterUrl":"https://102tube.com/Content/images/channel/Yw/UCYPvAwZP8pZhSMW8qs7cVCw.jpg",
+               "mediaurl":"UCYPvAwZP8pZhSMW8qs7cVCw"
+            },
+            {  
+               "mediaTitle":"CBS News",
+               "mediaPosterUrl":"https://www.lifenaut.com/blog/wp-content/uploads/2015/11/cbs-logo.png",
+               "mediaurl":"UCsyY79gR1KbnYaEy381lQsA"
+            },
+            {  
+               "mediaTitle":"NBC2",
+               "mediaPosterUrl":"https://i1.wp.com/pbs.twimg.com/profile_images/509692901484294144/etCTcEvf_200x200.png",
+               "mediaurl":"UCIYVU7fPs_n6gJIBso3ryeg"
+            },
+            {  
+               "mediaTitle":"TV2 AUSTRALIA",
+               "mediaPosterUrl":"https://102tube.com/Content/images/channel/OQ/UCO7e_DD3X2ZqOyp4DCFgEXQ.jpg",
+               "mediaurl":"UCO7e_DD3X2ZqOyp4DCFgEXQ"
+            },
+            {  
+               "mediaTitle":"ANN7 South Africa",
+               "mediaPosterUrl":"https://cdn.apk-cloud.com/detail/image/com.ionicframework.ann7555243-w250.png",
+               "mediaurl":"UC6gciFMFztxlRrO5f4K1xbQ"
+            },
+            {  
+               "mediaTitle":"BOL Network",
+               "mediaPosterUrl":"http://www.customercarepk.com/wp-content/uploads/2016/07/bol-tv-300x300.png",
+               "mediaurl":"UCV6-CUNsfe2-STYfYkd7bBQ"
+            },
+            {  
+               "mediaTitle":"Africanews",
+               "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png",
+               "mediaurl":"UC1_E8NeF5QHY2dtdLRBCCLA"
+            }
+         ]
+      }
+   ]
+}
+
+
