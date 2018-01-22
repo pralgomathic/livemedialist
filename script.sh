@@ -13,7 +13,7 @@ git pull origin master
 
 java -jar apps.jar AIzaSyAs1mTpb47kZRL1eTNvOdGyDtmnlXnToV8 liveChannelList.txt liveplaylist.txt
 
-git stash
+##git stash
 
 git add .
 
