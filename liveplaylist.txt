@@ -104,7 +104,7 @@
                },
                {
                    "mediaTitle":"IndiaTV",
-                   "mediaPosterUrl":"http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/styles/340x340/public/images/tv-images/2014/04/18/india_TV.jpg",
+                   "mediaPosterUrl":"https://bytc-media.s3.amazonaws.com/76d89fcd-dcc9-4085-838f-1687833bda37.jpg",
                    "mediaurl": "an1_CXsBkKk"
                },
                {
