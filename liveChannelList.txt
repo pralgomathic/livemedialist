@@ -88,6 +88,11 @@
                "mediaurl":"UCoMdktPbSTixAyNGwb-UYkQ"
             },
             {  
+               "mediaTitle":"Newsmax TV",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-C6_CcI6hu8Y/AAAAAAAAAAI/AAAAAAAAAAA/nvfyTFSNXx8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+               "mediaurl":"UCx6h-dWzJ5NpAlja1YsApdg"
+            },
+            {  
                "mediaTitle":"FRANCE 24 English",
                "mediaPosterUrl":"http://www.noticieroglobal.net/uploads/6/1/6/3/61636759/2266193.png",
                "mediaurl":"UCQfwfsi5VrQ8yKZ-UWmAEFg"
