@@ -38,11 +38,6 @@
           "mediaurl": "Ga3maNZ0x0w"
         },
         {
-          "mediaTitle": "ABC News(Australia)",
-          "mediaPosterUrl": "https://www.morrowsodali.com/images/news/1507545627-abc-news-og-data.jpg",
-          "mediaurl": "oYO-itBizz0"
-        },
-        {
           "mediaTitle": "Al Jazeera English",
           "mediaPosterUrl": "http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_al_jazlogo.jpg",
           "mediaurl": "nVHt1_SWTZg"
@@ -96,11 +91,6 @@
           "mediaTitle": "TV2 AUSTRALIA",
           "mediaPosterUrl": "https://102tube.com/Content/images/channel/OQ/UCO7e_DD3X2ZqOyp4DCFgEXQ.jpg",
           "mediaurl": "hfFLNPzQn6w"
-        },
-        {
-          "mediaTitle": "ANN7 South Africa",
-          "mediaPosterUrl": "https://cdn.apk-cloud.com/detail/image/com.ionicframework.ann7555243-w250.png",
-          "mediaurl": "h7sQwmunFJg"
         },
         {
           "mediaTitle": "BOL Network",
