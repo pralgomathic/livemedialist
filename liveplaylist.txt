@@ -128,6 +128,11 @@
                    "mediaurl": "HoWJeHL3AEk"
                },
                {
+                   "mediaTitle":"ASIANET NEWS Malayalam",
+                   "mediaPosterUrl":"http://www.nettv4u.com/fileman/Uploads/Top-10-News-Channels-In-Malayalam/Reporter-TV.jpg",
+                   "mediaurl": "qsP3Y4hHyeM"
+               },
+               {
                    "mediaTitle":"CBS News",
                    "mediaPosterUrl":"https://www.lifenaut.com/blog/wp-content/uploads/2015/11/cbs-logo.png",
                    "mediaurl": "pvw4Sa6EsHY"
