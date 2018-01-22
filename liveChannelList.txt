@@ -1,8 +1,8 @@
 {  
-   "mediaTitle":"Talking Tom",
-   "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
-   "mediaurl":"UCm3hAp1m1xlAz0ve_EKAo4g",
-   "mediaDescription":"Talking Tom Shorts",
+   "mediaTitle":"Clash Royale",
+   "mediaPosterUrl":"http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
+   "mediaurl":"UCOd-1k7mTIlrwN9S50Pe8CQ",
+   "mediaDescription":"Clash LOL Funny Montages, Glitches, Trolls",
    "medialist":[  
       {  
          "sectionTitle":"Live TV",
