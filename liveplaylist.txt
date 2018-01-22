@@ -103,6 +103,31 @@
                    "mediaurl": "U5OfAuztJpk"
                },
                {
+                   "mediaTitle":"IndiaTV",
+                   "mediaPosterUrl":"http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/styles/340x340/public/images/tv-images/2014/04/18/india_TV.jpg",
+                   "mediaurl": "an1_CXsBkKk"
+               },
+               {
+                   "mediaTitle":"Aaj Tak",
+                   "mediaPosterUrl":"https://pbs.twimg.com/profile_images/3173739292/f3bd5c1957433ade915e6a34e0fe7a57_400x400.png",
+                   "mediaurl": "II2BMr4LzcU"
+               },
+               {
+                   "mediaTitle":"News Nation India",
+                   "mediaPosterUrl":"http://www.livetvscene.com/wp-content/uploads/2015/04/news-nation-Live-logo.png",
+                   "mediaurl": "XAnUl1ox4xg"
+               },
+               {
+                   "mediaTitle":"News18 India",
+                   "mediaPosterUrl":"http://shoutit.in/wp-content/uploads/2017/11/WBS6wSvK_400x400.jpg",
+                   "mediaurl": "gFMaxP6cHh8"
+               },
+               {
+                   "mediaTitle":"TV9 Telugu",
+                   "mediaPosterUrl":"http://apk.downloada2z.com/wp-content/uploads/2016/03/TV9-Telugu.png",
+                   "mediaurl": "HoWJeHL3AEk"
+               },
+               {
                    "mediaTitle":"CBS News",
                    "mediaPosterUrl":"https://www.lifenaut.com/blog/wp-content/uploads/2015/11/cbs-logo.png",
                    "mediaurl": "pvw4Sa6EsHY"
