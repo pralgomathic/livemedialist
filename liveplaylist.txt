@@ -18,6 +18,11 @@
           "mediaurl": "0UxKSvADEs4"
         },
         {
+          "mediaTitle": "ATN News",
+          "mediaPosterUrl": "http://www.amarbarta24.com/assets/images/news_images/2015/08/22/18_8747.jpeg",
+          "mediaurl": "0qf7XVPCaVs"
+        },
+        {
           "mediaTitle": "Channel 24",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg",
           "mediaurl": "vWFZ0X1EW8o"
@@ -31,6 +36,11 @@
           "mediaTitle": "Bloomberg Global News",
           "mediaPosterUrl": "https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
           "mediaurl": "Ga3maNZ0x0w"
+        },
+        {
+          "mediaTitle": "ABC News(Australia)",
+          "mediaPosterUrl": "https://www.morrowsodali.com/images/news/1507545627-abc-news-og-data.jpg",
+          "mediaurl": "oYO-itBizz0"
         },
         {
           "mediaTitle": "Al Jazeera English",
