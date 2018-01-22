@@ -48,6 +48,11 @@
           "mediaurl": "nVHt1_SWTZg"
         },
         {
+          "mediaTitle": "BBC",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-8EjKDh376Uw/AAAAAAAAAAI/AAAAAAAAAAA/-91t-1CKRD0/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "-fs-an9iqzY"
+        },
+        {
           "mediaTitle": "FOX News",
           "mediaPosterUrl": "http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
           "mediaurl": "KBAuN4OtlwU"
@@ -85,7 +90,7 @@
         {
           "mediaTitle": "CBS News",
           "mediaPosterUrl": "https://www.lifenaut.com/blog/wp-content/uploads/2015/11/cbs-logo.png",
-          "mediaurl": "dHEPZary1P0"
+          "mediaurl": "pTfZaj25hb8"
         },
         {
           "mediaTitle": "NBC2",
