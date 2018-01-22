@@ -121,6 +121,11 @@
           "mediaTitle": "Africanews",
           "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png",
           "mediaurl": "JkYQdcEHL6I"
+        },
+        {
+          "mediaTitle": "Tv9 Gujarati Live",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "RQTKd0QInRQ"
         }
       ]
     }
