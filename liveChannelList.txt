@@ -1,8 +1,8 @@
 {  
    "mediaTitle":"Gazi TV",
    "mediaPosterUrl":"http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-   "mediaurl":"UCDXLOV3S0GTwmD8V8GP6w9Q",
-   "mediaDescription":"Fortnite Battle Royale LIVE",
+   "mediaurl":"UCNUFterLJ9vpFZZ0try7sLA",
+   "mediaDescription":"Somoy TV",
    "medialist":[  
       {  
          "sectionTitle":"Live TV",
