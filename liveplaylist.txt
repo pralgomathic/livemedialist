@@ -2,10 +2,16 @@
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
   "mediaDescription": "BANGLADESH vs ZIMBABWE | 5th Match Tri-Nation Series 2018 |**Live**",
+  "mediaurl": "d9iPHzLF8yM",
   "medialist": [
     {
       "sectionTitle": "Live TV",
       "mediaDetails": [
+        {
+            "mediaTitle": "Gazi TV",
+            "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
+            "mediaurl": "d9iPHzLF8yM"
+        },
         {
           "mediaTitle": "Somoy TV",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
