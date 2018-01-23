@@ -33,6 +33,11 @@
           "mediaurl": "iN1P9H10akY"
         },
         {
+          "mediaTitle": "DBC News",
+          "mediaPosterUrl": "https://www.dbcnews.tv/images/default_news.png",
+          "mediaurl": "hsFCMwFd8qM"
+        },
+        {
           "mediaTitle": "Ekota TV",
           "mediaPosterUrl": "https://yt3.ggpht.com/-QxpnMgbWD0Q/AAAAAAAAAAI/AAAAAAAAAAA/xS0oLvZAca4/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
           "mediaurl": "DOOcu9_jq18"
@@ -126,11 +131,6 @@
           "mediaTitle": "Tv9 Gujarati Live",
           "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "RQTKd0QInRQ"
-        },
-        {
-          "mediaTitle": "Asianet News",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-CvV0HzsT-1A/AAAAAAAAAAI/AAAAAAAAAAA/bi4dfDmGtaU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "qsP3Y4hHyeM"
         },
         {
           "mediaTitle": "IndiaTV",
