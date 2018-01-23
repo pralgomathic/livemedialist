@@ -1,8 +1,8 @@
 {  
-   "mediaTitle":"Clash Royale",
+   "mediaTitle":"Gazi TV",
    "mediaPosterUrl":"http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-   "mediaurl":"UCOd-1k7mTIlrwN9S50Pe8CQ",
-   "mediaDescription":"Clash LOL Funny Montages, Glitches, Trolls",
+   "mediaurl":"UCFDTlXUCZJ69srxdsEpFT6Q",
+   "mediaDescription":"BANGLADESH vs ZIMBABWE | 5th Match Tri-Nation Series 2018 | *COUNTDOWN*",
    "medialist":[  
       {  
          "sectionTitle":"Live TV",
