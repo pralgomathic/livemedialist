@@ -1,8 +1,8 @@
 {  
    "mediaTitle":"Gazi TV",
    "mediaPosterUrl":"http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-   "mediaurl":"UCCNGtLTGyYKm6RhVzrnyPCA",
-   "mediaDescription":"BANGLADESH vs ZIMBABWE | 5th Match Tri-Nation Series 2018 |**Live**",
+   "mediaurl":"UCDXLOV3S0GTwmD8V8GP6w9Q",
+   "mediaDescription":"Fortnite Battle Royale LIVE",
    "medialist":[  
       {  
          "sectionTitle":"Live TV",
