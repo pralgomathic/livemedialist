@@ -33,11 +33,6 @@
           "mediaurl": "iN1P9H10akY"
         },
         {
-          "mediaTitle": "DBC News",
-          "mediaPosterUrl": "https://www.dbcnews.tv/images/default_news.png",
-          "mediaurl": "hsFCMwFd8qM"
-        },
-        {
           "mediaTitle": "Ekota TV",
           "mediaPosterUrl": "https://yt3.ggpht.com/-QxpnMgbWD0Q/AAAAAAAAAAI/AAAAAAAAAAA/xS0oLvZAca4/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
           "mediaurl": "DOOcu9_jq18"
