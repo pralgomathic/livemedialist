@@ -48,6 +48,11 @@
                "mediaurl":"UCUvXoiDEKI8VZJrr58g4VAw"
             },
             {  
+               "mediaTitle":"Ekota TV",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-QxpnMgbWD0Q/AAAAAAAAAAI/AAAAAAAAAAA/xS0oLvZAca4/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
+               "mediaurl":"UCJ4rZZQ5Wc_byuQt9MAhmZw"
+            },
+            {  
                "mediaTitle":"Bloomberg Global News",
                "mediaPosterUrl":"https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
                "mediaurl":"UCUMZ7gohGI9HcU9VNsr2FJQ"
