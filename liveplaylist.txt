@@ -1,8 +1,8 @@
 {
-  "mediaTitle": "Clash Royale",
+  "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "Z9t7_JBwqr4",
-  "mediaDescription": "Clash LOL Funny Montages, Glitches, Trolls",
+  "mediaurl": "vMfBPqOewvM",
+  "mediaDescription": "BANGLADESH vs ZIMBABWE | 5th Match Tri-Nation Series 2018 | *COUNTDOWN*",
   "medialist": [
     {
       "sectionTitle": "Live TV",
@@ -90,7 +90,7 @@
         {
           "mediaTitle": "CBS News",
           "mediaPosterUrl": "https://www.lifenaut.com/blog/wp-content/uploads/2015/11/cbs-logo.png",
-          "mediaurl": "pTfZaj25hb8"
+          "mediaurl": "dHEPZary1P0"
         },
         {
           "mediaTitle": "NBC2",
