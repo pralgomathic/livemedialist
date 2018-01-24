@@ -93,11 +93,6 @@
           "mediaurl": "U5OfAuztJpk"
         },
         {
-          "mediaTitle": "CBS News",
-          "mediaPosterUrl": "https://www.lifenaut.com/blog/wp-content/uploads/2015/11/cbs-logo.png",
-          "mediaurl": "pTfZaj25hb8"
-        },
-        {
           "mediaTitle": "NBC2",
           "mediaPosterUrl": "https://i1.wp.com/pbs.twimg.com/profile_images/509692901484294144/etCTcEvf_200x200.png",
           "mediaurl": "_egSTyWb1gk"
