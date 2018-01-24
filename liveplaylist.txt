@@ -1,8 +1,8 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "0UxKSvADEs4",
-  "mediaDescription": "Feature Live",
+  "mediaurl": "v1tfs8sks7w",
+  "mediaDescription": "FEDERER VS BERDYCH QF - AUSTRALIAN OPEN 2018 LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
