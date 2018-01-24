@@ -158,16 +158,6 @@
           "mediaurl": "8EFSLb91mb8"
         },
         {
-          "mediaTitle": "ETV Live News",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-2x7L6egOiug/AAAAAAAAAAI/AAAAAAAAAAA/hj3dk5G7ECE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "nd02q7Rhk_U"
-        },
-        {
-          "mediaTitle": "Geo News Pakistan",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "adX6VHHzYXI"
-        },
-        {
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "cnZ1THbsjCI"
