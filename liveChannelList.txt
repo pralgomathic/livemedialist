@@ -1,8 +1,8 @@
 {  
    "mediaTitle":"Gazi TV",
    "mediaPosterUrl":"http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-   "mediaurl":"UCNUFterLJ9vpFZZ0try7sLA",
-   "mediaDescription":"Somoy TV",
+   "mediaurl":"UCYqujAD5831EywH1jldBu5w",
+   "mediaDescription":"Feature Live",
    "medialist":[  
       {  
          "sectionTitle":"Live TV",
