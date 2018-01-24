@@ -160,7 +160,7 @@
         {
           "mediaTitle": "AP1 HD Nepal",
           "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
-          "mediaurl": "93mAkFtucwU"
+          "mediaurl": "K5wOz8qrwvY"
         }
       ]
     }
