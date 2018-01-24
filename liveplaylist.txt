@@ -128,6 +128,11 @@
           "mediaurl": "RQTKd0QInRQ"
         },
         {
+          "mediaTitle": "Asianet News",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-CvV0HzsT-1A/AAAAAAAAAAI/AAAAAAAAAAA/bi4dfDmGtaU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "qsP3Y4hHyeM"
+        },
+        {
           "mediaTitle": "IndiaTV",
           "mediaPosterUrl": "https://yt3.ggpht.com/-VxmxG_1VK_g/AAAAAAAAAAI/AAAAAAAAAAA/CMhiRWPuOMk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "an1_CXsBkKk"
