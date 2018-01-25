@@ -3,7 +3,7 @@
    "mediaPosterUrl":"http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
    "mediaurl":"UCCNGtLTGyYKm6RhVzrnyPCA",
    "fixedVideoURL":"d9iPHzLF8yM",
-   "mediaDescription":"Bangladesh Tri-Nation Series | Bangladesh vs Sri Lanka| 6th match (D/N)| LIVE",
+   "mediaDescription":"GTV LIVE",
    "medialist":[  
       {  
          "sectionTitle":"Live TV",
