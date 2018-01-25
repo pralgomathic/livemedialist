@@ -163,6 +163,11 @@
           "mediaurl": "nd02q7Rhk_U"
         },
         {
+          "mediaTitle": "Geo News Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "adX6VHHzYXI"
+        },
+        {
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "GRnDCnndLcc"
