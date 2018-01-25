@@ -2,7 +2,7 @@
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
   "mediaurl": "d9iPHzLF8yM",
-  "mediaDescription": "Bangladesh Tri-Nation Series | Bangladesh vs Sri Lanka| 6th match (D/N)| LIVE",
+  "mediaDescription": "Gazi TV",
   "medialist": [
     {
       "sectionTitle": "Live TV",
@@ -96,11 +96,6 @@
           "mediaTitle": "NBC2",
           "mediaPosterUrl": "https://i1.wp.com/pbs.twimg.com/profile_images/509692901484294144/etCTcEvf_200x200.png",
           "mediaurl": "_egSTyWb1gk"
-        },
-        {
-          "mediaTitle": "TV2 AUSTRALIA",
-          "mediaPosterUrl": "https://102tube.com/Content/images/channel/OQ/UCO7e_DD3X2ZqOyp4DCFgEXQ.jpg",
-          "mediaurl": "hfFLNPzQn6w"
         },
         {
           "mediaTitle": "ANN7 South Africa",
