@@ -90,7 +90,7 @@
             },
             {  
                "mediaTitle":"Sky News",
-               "mediaPosterUrl":"https://pbs.twimg.com/profile_images/880366112751456257/GKkxouK6.jpg",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-uYnyeu0wFpQ/AAAAAAAAAAI/AAAAAAAAAAA/VU2Ct3J_ZQw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
                "mediaurl":"UCoMdktPbSTixAyNGwb-UYkQ"
             },
             {  
@@ -207,6 +207,11 @@
                "mediaTitle":"AP1 HD Nepal",
                "mediaPosterUrl":"https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
                "mediaurl":"UCxwa4RK4FCq-1LR5l5Dh8vA"
+            },
+            {  
+               "mediaTitle":"KBS World TV Korea",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-TlpMWJAqYHc/AAAAAAAAAAI/AAAAAAAAAAA/HYhmyrnj0SQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+               "mediaurl":"UC5BMQOsAB8hKUyHu9KI6yig"
             }
          ]
       }
