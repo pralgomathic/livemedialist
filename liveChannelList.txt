@@ -212,6 +212,16 @@
                "mediaTitle":"KBS World TV Korea",
                "mediaPosterUrl":"https://yt3.ggpht.com/-TlpMWJAqYHc/AAAAAAAAAAI/AAAAAAAAAAA/HYhmyrnj0SQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
                "mediaurl":"UC5BMQOsAB8hKUyHu9KI6yig"
+            },
+            {  
+               "mediaTitle":"YTN News Korea",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-4Gb7JgteaHk/AAAAAAAAAAI/AAAAAAAAAAA/fRo3qjpM2sk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+               "mediaurl":"UChlgI3UHCOnwUGzWzbJ3H5w"
+            },
+            {  
+               "mediaTitle":"ARIRANG TV Korea",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+               "mediaurl":"UC-PHIZjV-oX8H7zD1cCN2NQ"
             }
          ]
       }
