@@ -2,11 +2,16 @@
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
   "mediaurl": "d9iPHzLF8yM",
-  "mediaDescription": "GTV LIVE",
+  "mediaDescription": "GTV Live | জিটিভি লাইভ | Official Broadcast Link",
   "medialist": [
     {
       "sectionTitle": "Live TV",
       "mediaDetails": [
+        {
+          "mediaTitle": "Gazi TV",
+          "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
+          "mediaurl": "d9iPHzLF8yM"
+        },
         {
           "mediaTitle": "Somoy TV",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
@@ -151,6 +156,16 @@
           "mediaTitle": "NTV Telugu",
           "mediaPosterUrl": "https://yt3.ggpht.com/-I86FHHZ9FqQ/AAAAAAAAAAI/AAAAAAAAAAA/3SlAT9W9O8s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "8EFSLb91mb8"
+        },
+        {
+          "mediaTitle": "ETV Live News",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-2x7L6egOiug/AAAAAAAAAAI/AAAAAAAAAAA/hj3dk5G7ECE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "nd02q7Rhk_U"
+        },
+        {
+          "mediaTitle": "Geo News Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "adX6VHHzYXI"
         },
         {
           "mediaTitle": "SAMAA TV Pakistan",
