@@ -113,11 +113,6 @@
           "mediaurl": "mC4uDq2Oqgc"
         },
         {
-          "mediaTitle": "Tv9 Gujarati Live",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "ja7Acdkp6X0"
-        },
-        {
           "mediaTitle": "Asianet News",
           "mediaPosterUrl": "https://yt3.ggpht.com/-CvV0HzsT-1A/AAAAAAAAAAI/AAAAAAAAAAA/bi4dfDmGtaU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "qsP3Y4hHyeM"
