@@ -2,8 +2,8 @@
    "mediaTitle":"Gazi TV",
    "mediaPosterUrl":"http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
    "mediaurl":"UCCNGtLTGyYKm6RhVzrnyPCA",
-   "fixedVideoURL" : "d9iPHzLF8yM",
-   "mediaDescription":"GTV LIVE",
+   "fixedVideoURL":"d9iPHzLF8yM",
+   "mediaDescription":"GTV LIVE",
    "medialist":[  
       {  
          "sectionTitle":"Live TV",
@@ -192,7 +192,7 @@
                "mediaTitle":"ETV Live News",
                "mediaPosterUrl":"https://yt3.ggpht.com/-2x7L6egOiug/AAAAAAAAAAI/AAAAAAAAAAA/hj3dk5G7ECE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
                "mediaurl":"UCSbwShxZsBiqqWwtUidmS6g"
-            },         
+            },
             {  
                "mediaTitle":"Geo News Pakistan",
                "mediaPosterUrl":"https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
@@ -227,5 +227,3 @@
       }
    ]
 }
-
-

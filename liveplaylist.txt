@@ -2,11 +2,16 @@
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
   "mediaurl": "d9iPHzLF8yM",
-  "mediaDescription": "GTV LIVE",
+  "mediaDescription": "GTV Live | জিটিভি লাইভ | Official Broadcast Link",
   "medialist": [
     {
       "sectionTitle": "Live TV",
       "mediaDetails": [
+        {
+          "mediaTitle": "Gazi TV",
+          "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
+          "mediaurl": "d9iPHzLF8yM"
+        },
         {
           "mediaTitle": "Somoy TV",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
@@ -55,7 +60,7 @@
         {
           "mediaTitle": "Euronews English",
           "mediaPosterUrl": "https://www.ashurbeyli.ru/public/article/images/47adfe79c73d5ee1104f9ee596ef872529d2637a.jpg",
-          "mediaurl": "_76NvJBobCg"
+          "mediaurl": "Ah04R0okNbQ"
         },
         {
           "mediaTitle": "Sky News",
@@ -93,6 +98,11 @@
           "mediaurl": "_egSTyWb1gk"
         },
         {
+          "mediaTitle": "TV2 AUSTRALIA",
+          "mediaPosterUrl": "https://102tube.com/Content/images/channel/OQ/UCO7e_DD3X2ZqOyp4DCFgEXQ.jpg",
+          "mediaurl": "RBbqlsRhfF0"
+        },
+        {
           "mediaTitle": "ANN7 South Africa",
           "mediaPosterUrl": "https://cdn.apk-cloud.com/detail/image/com.ionicframework.ann7555243-w250.png",
           "mediaurl": "h7sQwmunFJg"
@@ -105,12 +115,12 @@
         {
           "mediaTitle": "Africanews",
           "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png",
-          "mediaurl": "76O69MSXkbk"
+          "mediaurl": "mC4uDq2Oqgc"
         },
         {
           "mediaTitle": "Tv9 Gujarati Live",
           "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "RQTKd0QInRQ"
+          "mediaurl": "ja7Acdkp6X0"
         },
         {
           "mediaTitle": "Asianet News",
@@ -148,6 +158,16 @@
           "mediaurl": "8EFSLb91mb8"
         },
         {
+          "mediaTitle": "ETV Live News",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-2x7L6egOiug/AAAAAAAAAAI/AAAAAAAAAAA/hj3dk5G7ECE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "nd02q7Rhk_U"
+        },
+        {
+          "mediaTitle": "Geo News Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "adX6VHHzYXI"
+        },
+        {
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "GRnDCnndLcc"
@@ -156,24 +176,22 @@
           "mediaTitle": "AP1 HD Nepal",
           "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
           "mediaurl": "K5wOz8qrwvY"
+        },
+        {
+          "mediaTitle": "KBS World TV Korea",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-TlpMWJAqYHc/AAAAAAAAAAI/AAAAAAAAAAA/HYhmyrnj0SQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "NCLQN16Lyb4"
+        },
+        {
+          "mediaTitle": "YTN News Korea",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-4Gb7JgteaHk/AAAAAAAAAAI/AAAAAAAAAAA/fRo3qjpM2sk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "aR8Fe1lTKHo"
+        },
+        {
+          "mediaTitle": "ARIRANG TV Korea",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "yFNF204pIZE"
         }
-        ,
-            {  
-               "mediaTitle":"KBS World TV Korea",
-               "mediaPosterUrl":"https://yt3.ggpht.com/-TlpMWJAqYHc/AAAAAAAAAAI/AAAAAAAAAAA/HYhmyrnj0SQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-               "mediaurl":"NCLQN16Lyb4"
-            }
-            ,
-            {  
-               "mediaTitle":"YTN News Korea",
-               "mediaPosterUrl":"https://yt3.ggpht.com/-4Gb7JgteaHk/AAAAAAAAAAI/AAAAAAAAAAA/fRo3qjpM2sk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-               "mediaurl":"aR8Fe1lTKHo"
-            },
-            {  
-               "mediaTitle":"ARIRANG TV Korea",
-               "mediaPosterUrl":"https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-               "mediaurl":"yFNF204pIZE"
-            }
       ]
     }
   ]
