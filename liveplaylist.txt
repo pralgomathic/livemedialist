@@ -2,7 +2,7 @@
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
   "mediaurl": "d9iPHzLF8yM",
-  "mediaDescription": "GTV LIVE",
+  "mediaDescription": "Bangladesh Tri-Nation Series Final | BANGLADESH vs SRI LANKA | LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
