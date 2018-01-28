@@ -30,7 +30,7 @@
         {
           "mediaTitle": "News 24",
           "mediaPosterUrl": "http://munshiganjtoday.net/sites/default/files/styles/medium/public/2017-07/maxresdefault.jpg",
-          "mediaurl": "iN1P9H10akY"
+          "mediaurl": "74b_vXwJmUw"
         },
         {
           "mediaTitle": "Ekota TV",
