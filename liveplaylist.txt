@@ -100,7 +100,7 @@
         {
           "mediaTitle": "ANN7 South Africa",
           "mediaPosterUrl": "https://cdn.apk-cloud.com/detail/image/com.ionicframework.ann7555243-w250.png",
-          "mediaurl": "sJfStXfCwJ8"
+          "mediaurl": "r94gLwb5-7c"
         },
         {
           "mediaTitle": "BOL Network",
@@ -151,6 +151,11 @@
           "mediaTitle": "NTV Telugu",
           "mediaPosterUrl": "https://yt3.ggpht.com/-I86FHHZ9FqQ/AAAAAAAAAAI/AAAAAAAAAAA/3SlAT9W9O8s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "8EFSLb91mb8"
+        },
+        {
+          "mediaTitle": "SAMAA TV Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "pF_phx7icds"
         },
         {
           "mediaTitle": "AP1 HD Nepal",
