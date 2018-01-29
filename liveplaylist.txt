@@ -170,7 +170,7 @@
         {
           "mediaTitle": "ARIRANG TV Korea",
           "mediaPosterUrl": "https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "yFNF204pIZE"
+          "mediaurl": "q3ctDLDG_L4"
         }
       ]
     }
