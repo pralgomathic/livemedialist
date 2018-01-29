@@ -186,6 +186,16 @@
           "mediaTitle": "BBC Arabic",
           "mediaPosterUrl": "https://yt3.ggpht.com/-FunttT2po-U/AAAAAAAAAAI/AAAAAAAAAAA/eIfP21fiXu4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "HxI2TxhhS9A"
+        },
+        {
+          "mediaTitle": "Todo Noticias (TN) Argentina",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-3alNghFOor4/AAAAAAAAAAI/AAAAAAAAAAA/S7aGmIKGJPE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "0tek2aa8hAQ"
+        },
+        {
+          "mediaTitle": "A24 Argentina",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-lXcUnjq0pPU/AAAAAAAAAAI/AAAAAAAAAAA/2AGPtVKpL50/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "kLlI76mNygk"
         }
       ]
     }
