@@ -58,6 +58,11 @@
           "mediaurl": "nVHt1_SWTZg"
         },
         {
+          "mediaTitle": "FOX News",
+          "mediaPosterUrl": "http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
+          "mediaurl": "GxZFXMc2v4g"
+        },
+        {
           "mediaTitle": "Euronews English",
           "mediaPosterUrl": "https://www.ashurbeyli.ru/public/article/images/47adfe79c73d5ee1104f9ee596ef872529d2637a.jpg",
           "mediaurl": "Ah04R0okNbQ"
@@ -196,6 +201,11 @@
           "mediaTitle": "A24 Argentina",
           "mediaPosterUrl": "https://yt3.ggpht.com/-lXcUnjq0pPU/AAAAAAAAAAI/AAAAAAAAAAA/2AGPtVKpL50/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "kLlI76mNygk"
+        },
+        {
+          "mediaTitle": "Russia-24",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-Cku6e-TSRzw/AAAAAAAAAAI/AAAAAAAAAAA/idA6RiypKzk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "K59KKnIbIaM"
         }
       ]
     }
