@@ -123,9 +123,19 @@
           "mediaurl": "mC4uDq2Oqgc"
         },
         {
-          "mediaTitle": "Tv9 Gujarati Live",
+          "mediaTitle": "TV9 Gujarati",
           "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "ClYr4CYe25s"
+        },
+        {
+          "mediaTitle": "TV9 Telugu",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-jU7Ecfsf-DQ/AAAAAAAAAAI/AAAAAAAAAAA/VR5Ga8LBmKQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "HoWJeHL3AEk"
+        },
+        {
+          "mediaTitle": "TV9 Marathi",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-81C2aZ0_jIA/AAAAAAAAAAI/AAAAAAAAAAA/zFrTDdrOdxc/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "aWROQD16uBg"
         },
         {
           "mediaTitle": "Asianet News",
