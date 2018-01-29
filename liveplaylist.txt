@@ -123,11 +123,6 @@
           "mediaurl": "qsP3Y4hHyeM"
         },
         {
-          "mediaTitle": "IndiaTV",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-VxmxG_1VK_g/AAAAAAAAAAI/AAAAAAAAAAA/CMhiRWPuOMk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "an1_CXsBkKk"
-        },
-        {
           "mediaTitle": "News18 India",
           "mediaPosterUrl": "https://yt3.ggpht.com/-AKivlOOZbgM/AAAAAAAAAAI/AAAAAAAAAAA/wm-EP6wlh7k/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "gFMaxP6cHh8"
@@ -146,6 +141,11 @@
           "mediaTitle": "NTV Telugu",
           "mediaPosterUrl": "https://yt3.ggpht.com/-I86FHHZ9FqQ/AAAAAAAAAAI/AAAAAAAAAAA/3SlAT9W9O8s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "8EFSLb91mb8"
+        },
+        {
+          "mediaTitle": "SAMAA TV Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "zYlyUHNrEFw"
         },
         {
           "mediaTitle": "AP1 HD Nepal",
