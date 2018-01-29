@@ -33,6 +33,11 @@
           "mediaurl": "74b_vXwJmUw"
         },
         {
+          "mediaTitle": "DBC News",
+          "mediaPosterUrl": "https://www.dbcnews.tv/images/default_news.png",
+          "mediaurl": "rYcTj0VleGs"
+        },
+        {
           "mediaTitle": "Ekota TV",
           "mediaPosterUrl": "https://yt3.ggpht.com/-QxpnMgbWD0Q/AAAAAAAAAAI/AAAAAAAAAAA/xS0oLvZAca4/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
           "mediaurl": "DOOcu9_jq18"
@@ -66,11 +71,6 @@
           "mediaTitle": "Newsmax TV",
           "mediaPosterUrl": "https://yt3.ggpht.com/-C6_CcI6hu8Y/AAAAAAAAAAI/AAAAAAAAAAA/nvfyTFSNXx8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "FbjHJD5iVJU"
-        },
-        {
-          "mediaTitle": "FRANCE 24 English",
-          "mediaPosterUrl": "http://www.noticieroglobal.net/uploads/6/1/6/3/61636759/2266193.png",
-          "mediaurl": "9c_Bac-17Rk"
         },
         {
           "mediaTitle": "ABC 7 SWFL",
