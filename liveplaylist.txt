@@ -128,6 +128,11 @@
           "mediaurl": "HoWJeHL3AEk"
         },
         {
+          "mediaTitle": "TV9 Marathi",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-81C2aZ0_jIA/AAAAAAAAAAI/AAAAAAAAAAA/zFrTDdrOdxc/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "F1HRxOerZ7Y"
+        },
+        {
           "mediaTitle": "Asianet News",
           "mediaPosterUrl": "https://yt3.ggpht.com/-CvV0HzsT-1A/AAAAAAAAAAI/AAAAAAAAAAA/bi4dfDmGtaU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "qsP3Y4hHyeM"
