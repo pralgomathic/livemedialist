@@ -83,6 +83,11 @@
           "mediaurl": "9c_Bac-17Rk"
         },
         {
+          "mediaTitle": "ABC 7 SWFL",
+          "mediaPosterUrl": "http://ftpcontent.worldnow.com/wncustom/custom/wzvn/wzvn_og_image.jpg",
+          "mediaurl": "dV2z7tGeVoI"
+        },
+        {
           "mediaTitle": "CNN-NEWS18 (India)",
           "mediaPosterUrl": "http://tvimages.burrp.com/images/channels1/news/CNN%20News%2018.png",
           "mediaurl": "jxC8u25wbUI"
