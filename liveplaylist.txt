@@ -83,11 +83,6 @@
           "mediaurl": "dV2z7tGeVoI"
         },
         {
-          "mediaTitle": "CNN-NEWS18 (India)",
-          "mediaPosterUrl": "http://tvimages.burrp.com/images/channels1/news/CNN%20News%2018.png",
-          "mediaurl": "jxC8u25wbUI"
-        },
-        {
           "mediaTitle": "India Today",
           "mediaPosterUrl": "https://102tube.com/Content/images/channel/Yw/UCYPvAwZP8pZhSMW8qs7cVCw.jpg",
           "mediaurl": "U5OfAuztJpk"
@@ -151,6 +146,11 @@
           "mediaTitle": "DD News India",
           "mediaPosterUrl": "https://yt3.ggpht.com/-To2bJ5pE_qo/AAAAAAAAAAI/AAAAAAAAAAA/U5H5BPelJts/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "WNna4W4jLek"
+        },
+        {
+          "mediaTitle": "NTV Telugu",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-I86FHHZ9FqQ/AAAAAAAAAAI/AAAAAAAAAAA/3SlAT9W9O8s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "8EFSLb91mb8"
         },
         {
           "mediaTitle": "SAMAA TV Pakistan",
