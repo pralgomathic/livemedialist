@@ -88,11 +88,6 @@
           "mediaurl": "dV2z7tGeVoI"
         },
         {
-          "mediaTitle": "CNN-NEWS18 (India)",
-          "mediaPosterUrl": "http://tvimages.burrp.com/images/channels1/news/CNN%20News%2018.png",
-          "mediaurl": "jxC8u25wbUI"
-        },
-        {
           "mediaTitle": "India Today",
           "mediaPosterUrl": "https://102tube.com/Content/images/channel/Yw/UCYPvAwZP8pZhSMW8qs7cVCw.jpg",
           "mediaurl": "U5OfAuztJpk"
