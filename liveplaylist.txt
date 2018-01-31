@@ -103,11 +103,6 @@
           "mediaurl": "r94gLwb5-7c"
         },
         {
-          "mediaTitle": "BOL Network",
-          "mediaPosterUrl": "http://www.customercarepk.com/wp-content/uploads/2016/07/bol-tv-300x300.png",
-          "mediaurl": "SDdVizeMIwo"
-        },
-        {
           "mediaTitle": "Africanews",
           "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png",
           "mediaurl": "mC4uDq2Oqgc"
@@ -161,6 +156,11 @@
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "Q_YWRT8GnNc"
+        },
+        {
+          "mediaTitle": "AP1 HD Nepal",
+          "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
+          "mediaurl": "nSEs5EGmM0g"
         },
         {
           "mediaTitle": "KBS World TV Korea",
