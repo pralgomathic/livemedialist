@@ -53,6 +53,11 @@
           "mediaurl": "nVHt1_SWTZg"
         },
         {
+          "mediaTitle": "Euronews English",
+          "mediaPosterUrl": "https://www.ashurbeyli.ru/public/article/images/47adfe79c73d5ee1104f9ee596ef872529d2637a.jpg",
+          "mediaurl": "Ah04R0okNbQ"
+        },
+        {
           "mediaTitle": "Sky News",
           "mediaPosterUrl": "https://yt3.ggpht.com/-uYnyeu0wFpQ/AAAAAAAAAAI/AAAAAAAAAAA/VU2Ct3J_ZQw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "XOacA3RYrXk"
