@@ -63,11 +63,6 @@
           "mediaurl": "Ah04R0okNbQ"
         },
         {
-          "mediaTitle": "Sky News",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-uYnyeu0wFpQ/AAAAAAAAAAI/AAAAAAAAAAA/VU2Ct3J_ZQw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "XOacA3RYrXk"
-        },
-        {
           "mediaTitle": "Newsmax TV",
           "mediaPosterUrl": "https://yt3.ggpht.com/-C6_CcI6hu8Y/AAAAAAAAAAI/AAAAAAAAAAA/nvfyTFSNXx8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "FbjHJD5iVJU"
