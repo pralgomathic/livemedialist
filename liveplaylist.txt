@@ -143,11 +143,6 @@
           "mediaurl": "gFMaxP6cHh8"
         },
         {
-          "mediaTitle": "Aaj Tak India",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-ZE5JmiUBlGo/AAAAAAAAAAI/AAAAAAAAAAA/JU-NHnMeaY8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "II2BMr4LzcU"
-        },
-        {
           "mediaTitle": "DD News India",
           "mediaPosterUrl": "https://yt3.ggpht.com/-To2bJ5pE_qo/AAAAAAAAAAI/AAAAAAAAAAA/U5H5BPelJts/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "WNna4W4jLek"
