@@ -48,11 +48,6 @@
           "mediaurl": "oYO-itBizz0"
         },
         {
-          "mediaTitle": "Al Jazeera English",
-          "mediaPosterUrl": "http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_al_jazlogo.jpg",
-          "mediaurl": "nVHt1_SWTZg"
-        },
-        {
           "mediaTitle": "Euronews English",
           "mediaPosterUrl": "https://www.ashurbeyli.ru/public/article/images/47adfe79c73d5ee1104f9ee596ef872529d2637a.jpg",
           "mediaurl": "Ah04R0okNbQ"
