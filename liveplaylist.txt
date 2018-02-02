@@ -115,7 +115,7 @@
         {
           "mediaTitle": "TV9 Gujarati",
           "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "U4StmSdEZqM"
+          "mediaurl": "vP3cE0jqo8I"
         },
         {
           "mediaTitle": "TV9 Telugu",
