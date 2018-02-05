@@ -13,6 +13,11 @@
           "mediaurl": "gz0bSMO99hs"
         },
         {
+          "mediaTitle": "NTV",
+          "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/181px-NTV_%28Bangladesh%29_logo.svg.png",
+          "mediaurl": "jLXS4n7iinU"
+        },
+        {
           "mediaTitle": "ATN News",
           "mediaPosterUrl": "http://www.amarbarta24.com/assets/images/news_images/2015/08/22/18_8747.jpeg",
           "mediaurl": "gcbRvAHTtUk"
@@ -106,6 +111,11 @@
           "mediaTitle": "Africanews",
           "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png",
           "mediaurl": "mC4uDq2Oqgc"
+        },
+        {
+          "mediaTitle": "TV9 Gujarati",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "6nXhe7yrbys"
         },
         {
           "mediaTitle": "TV9 Telugu",
