@@ -145,7 +145,7 @@
         {
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "Q_YWRT8GnNc"
+          "mediaurl": "_3VcMlqvSo4"
         },
         {
           "mediaTitle": "AP1 HD Nepal",
