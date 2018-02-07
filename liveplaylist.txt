@@ -80,7 +80,7 @@
         {
           "mediaTitle": "CNN-NEWS18 (India)",
           "mediaPosterUrl": "http://tvimages.burrp.com/images/channels1/news/CNN%20News%2018.png",
-          "mediaurl": "iw9TPi4LqKc"
+          "mediaurl": "TchSXgivY_0"
         },
         {
           "mediaTitle": "India Today",
@@ -136,11 +136,6 @@
           "mediaTitle": "IndiaTV",
           "mediaPosterUrl": "https://yt3.ggpht.com/-VxmxG_1VK_g/AAAAAAAAAAI/AAAAAAAAAAA/CMhiRWPuOMk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "an1_CXsBkKk"
-        },
-        {
-          "mediaTitle": "News18 India",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-AKivlOOZbgM/AAAAAAAAAAI/AAAAAAAAAAA/wm-EP6wlh7k/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "nVcfkWWN-fg"
         },
         {
           "mediaTitle": "Aaj Tak India",
