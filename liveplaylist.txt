@@ -33,11 +33,6 @@
           "mediaurl": "74b_vXwJmUw"
         },
         {
-          "mediaTitle": "DBC News",
-          "mediaPosterUrl": "https://www.dbcnews.tv/images/default_news.png",
-          "mediaurl": "B4N6B7Z4iAM"
-        },
-        {
           "mediaTitle": "Bloomberg Global News",
           "mediaPosterUrl": "https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
           "mediaurl": "Ga3maNZ0x0w"
