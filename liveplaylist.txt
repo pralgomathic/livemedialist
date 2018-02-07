@@ -63,11 +63,6 @@
           "mediaurl": "XOacA3RYrXk"
         },
         {
-          "mediaTitle": "Newsmax TV",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-C6_CcI6hu8Y/AAAAAAAAAAI/AAAAAAAAAAA/nvfyTFSNXx8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "FbjHJD5iVJU"
-        },
-        {
           "mediaTitle": "FRANCE 24 English",
           "mediaPosterUrl": "http://www.noticieroglobal.net/uploads/6/1/6/3/61636759/2266193.png",
           "mediaurl": "9c_Bac-17Rk"
@@ -76,6 +71,11 @@
           "mediaTitle": "ABC 7 SWFL",
           "mediaPosterUrl": "http://ftpcontent.worldnow.com/wncustom/custom/wzvn/wzvn_og_image.jpg",
           "mediaurl": "dV2z7tGeVoI"
+        },
+        {
+          "mediaTitle": "CNN-NEWS18 (India)",
+          "mediaPosterUrl": "http://tvimages.burrp.com/images/channels1/news/CNN%20News%2018.png",
+          "mediaurl": "TLDfZtEx27k"
         },
         {
           "mediaTitle": "India Today",
@@ -131,6 +131,11 @@
           "mediaTitle": "IndiaTV",
           "mediaPosterUrl": "https://yt3.ggpht.com/-VxmxG_1VK_g/AAAAAAAAAAI/AAAAAAAAAAA/CMhiRWPuOMk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "an1_CXsBkKk"
+        },
+        {
+          "mediaTitle": "News18 India",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-AKivlOOZbgM/AAAAAAAAAAI/AAAAAAAAAAA/wm-EP6wlh7k/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "4gh8SYVpw1k"
         },
         {
           "mediaTitle": "Aaj Tak India",
