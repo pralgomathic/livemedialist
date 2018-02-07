@@ -8,6 +8,11 @@
       "sectionTitle": "Live TV",
       "mediaDetails": [
         {
+          "mediaTitle": "Somoy TV",
+          "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
+          "mediaurl": "MYARqU5zUrs"
+        },
+        {
           "mediaTitle": "NTV",
           "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/181px-NTV_%28Bangladesh%29_logo.svg.png",
           "mediaurl": "jLXS4n7iinU"
@@ -26,6 +31,11 @@
           "mediaTitle": "News 24",
           "mediaPosterUrl": "http://munshiganjtoday.net/sites/default/files/styles/medium/public/2017-07/maxresdefault.jpg",
           "mediaurl": "74b_vXwJmUw"
+        },
+        {
+          "mediaTitle": "Ekota TV",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-QxpnMgbWD0Q/AAAAAAAAAAI/AAAAAAAAAAA/xS0oLvZAca4/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
+          "mediaurl": "hWrVTqWX1J4"
         },
         {
           "mediaTitle": "Bloomberg Global News",
@@ -85,7 +95,7 @@
         {
           "mediaTitle": "TV2 AUSTRALIA",
           "mediaPosterUrl": "https://102tube.com/Content/images/channel/OQ/UCO7e_DD3X2ZqOyp4DCFgEXQ.jpg",
-          "mediaurl": "RBbqlsRhfF0"
+          "mediaurl": "QPTtXx1vU5M"
         },
         {
           "mediaTitle": "ANN7 South Africa",
@@ -155,7 +165,7 @@
         {
           "mediaTitle": "AP1 HD Nepal",
           "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
-          "mediaurl": "nSEs5EGmM0g"
+          "mediaurl": "cUN_Wv2xJ8s"
         },
         {
           "mediaTitle": "KBS World TV Korea",
