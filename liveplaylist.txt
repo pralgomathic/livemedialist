@@ -28,6 +28,11 @@
           "mediaurl": "F7ElBZooa90"
         },
         {
+          "mediaTitle": "News 24",
+          "mediaPosterUrl": "http://munshiganjtoday.net/sites/default/files/styles/medium/public/2017-07/maxresdefault.jpg",
+          "mediaurl": "cjbKs5wyXRg"
+        },
+        {
           "mediaTitle": "Bloomberg Global News",
           "mediaPosterUrl": "https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
           "mediaurl": "Ga3maNZ0x0w"
