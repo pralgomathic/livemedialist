@@ -173,11 +173,6 @@
           "mediaurl": "aR8Fe1lTKHo"
         },
         {
-          "mediaTitle": "ARIRANG TV Korea",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "kUfTRKWPEwQ"
-        },
-        {
           "mediaTitle": "BBC Persian",
           "mediaPosterUrl": "https://yt3.ggpht.com/-akDg98kRRNQ/AAAAAAAAAAI/AAAAAAAAAAA/GGNY7g_3VEc/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "FCKruF2LZNs"
