@@ -143,6 +143,11 @@
           "mediaurl": "II2BMr4LzcU"
         },
         {
+          "mediaTitle": "DD News India",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-To2bJ5pE_qo/AAAAAAAAAAI/AAAAAAAAAAA/U5H5BPelJts/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "WNna4W4jLek"
+        },
+        {
           "mediaTitle": "NTV Telugu",
           "mediaPosterUrl": "https://yt3.ggpht.com/-I86FHHZ9FqQ/AAAAAAAAAAI/AAAAAAAAAAA/3SlAT9W9O8s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "8EFSLb91mb8"
