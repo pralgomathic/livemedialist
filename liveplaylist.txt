@@ -28,6 +28,11 @@
           "mediaurl": "F7ElBZooa90"
         },
         {
+          "mediaTitle": "Bloomberg Global News",
+          "mediaPosterUrl": "https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
+          "mediaurl": "Ga3maNZ0x0w"
+        },
+        {
           "mediaTitle": "Al Jazeera English",
           "mediaPosterUrl": "http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_al_jazlogo.jpg",
           "mediaurl": "nVHt1_SWTZg"
