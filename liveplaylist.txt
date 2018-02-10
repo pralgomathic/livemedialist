@@ -13,11 +13,6 @@
           "mediaurl": "MYARqU5zUrs"
         },
         {
-          "mediaTitle": "NTV",
-          "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/181px-NTV_%28Bangladesh%29_logo.svg.png",
-          "mediaurl": "j_Db3UxAoP0"
-        },
-        {
           "mediaTitle": "ATN News",
           "mediaPosterUrl": "http://www.amarbarta24.com/assets/images/news_images/2015/08/22/18_8747.jpeg",
           "mediaurl": "gcbRvAHTtUk"
