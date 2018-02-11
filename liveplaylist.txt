@@ -18,9 +18,19 @@
           "mediaurl": "v4NshSL1NjI"
         },
         {
+          "mediaTitle": "Channel 24",
+          "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg",
+          "mediaurl": "vOXcx_Mj0Q0"
+        },
+        {
           "mediaTitle": "News 24",
           "mediaPosterUrl": "http://munshiganjtoday.net/sites/default/files/styles/medium/public/2017-07/maxresdefault.jpg",
           "mediaurl": "99KztdUqQmo"
+        },
+        {
+          "mediaTitle": "DBC News",
+          "mediaPosterUrl": "https://www.dbcnews.tv/images/default_news.png",
+          "mediaurl": "1Nwg13H5oVk"
         },
         {
           "mediaTitle": "Bloomberg Global News",
@@ -106,6 +116,11 @@
           "mediaTitle": "TV9 Marathi",
           "mediaPosterUrl": "https://yt3.ggpht.com/-81C2aZ0_jIA/AAAAAAAAAAI/AAAAAAAAAAA/zFrTDdrOdxc/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "F1HRxOerZ7Y"
+        },
+        {
+          "mediaTitle": "Asianet News",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-CvV0HzsT-1A/AAAAAAAAAAI/AAAAAAAAAAA/bi4dfDmGtaU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "qsP3Y4hHyeM"
         },
         {
           "mediaTitle": "IndiaTV",
