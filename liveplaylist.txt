@@ -48,11 +48,6 @@
           "mediaurl": "nVHt1_SWTZg"
         },
         {
-          "mediaTitle": "FOX News",
-          "mediaPosterUrl": "http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
-          "mediaurl": "JdxlAuE17HQ"
-        },
-        {
           "mediaTitle": "Euronews English",
           "mediaPosterUrl": "https://www.ashurbeyli.ru/public/article/images/47adfe79c73d5ee1104f9ee596ef872529d2637a.jpg",
           "mediaurl": "Ah04R0okNbQ"
@@ -166,11 +161,6 @@
           "mediaTitle": "AP1 HD Nepal",
           "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
           "mediaurl": "TUCe0fqSU_k"
-        },
-        {
-          "mediaTitle": "KBS World TV Korea",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-TlpMWJAqYHc/AAAAAAAAAAI/AAAAAAAAAAA/HYhmyrnj0SQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "NCLQN16Lyb4"
         },
         {
           "mediaTitle": "YTN News Korea",
