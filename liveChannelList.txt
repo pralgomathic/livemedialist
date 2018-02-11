@@ -81,7 +81,7 @@
             {  
                "mediaTitle":"FOX News",
                "mediaPosterUrl":"http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
-               "mediaurl":"UCltU-I6ARqYo6OcSddB3z1w"
+               "mediaurl":"UCRAsdO1VRZqBuPRSnSiNgiw"
             },
             {  
                "mediaTitle":"Euronews English",
