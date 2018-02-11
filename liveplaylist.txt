@@ -13,11 +13,6 @@
           "mediaurl": "MYARqU5zUrs"
         },
         {
-          "mediaTitle": "ATN News",
-          "mediaPosterUrl": "http://www.amarbarta24.com/assets/images/news_images/2015/08/22/18_8747.jpeg",
-          "mediaurl": "gcbRvAHTtUk"
-        },
-        {
           "mediaTitle": "News 24",
           "mediaPosterUrl": "http://munshiganjtoday.net/sites/default/files/styles/medium/public/2017-07/maxresdefault.jpg",
           "mediaurl": "99KztdUqQmo"
