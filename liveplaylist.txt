@@ -1,6 +1,213 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
+  "mediaurl": "X05pXE24Mi0",
   "mediaDescription": "GTV | LIVE",
-  "medialist": []
+  "medialist": [
+    {
+      "sectionTitle": "Live TV",
+      "mediaDetails": [
+        {
+          "mediaTitle": "Somoy TV",
+          "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
+          "mediaurl": "MYARqU5zUrs"
+        },
+        {
+          "mediaTitle": "NTV",
+          "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/181px-NTV_%28Bangladesh%29_logo.svg.png",
+          "mediaurl": "iF2URh5oNJY"
+        },
+        {
+          "mediaTitle": "ATN News",
+          "mediaPosterUrl": "http://www.amarbarta24.com/assets/images/news_images/2015/08/22/18_8747.jpeg",
+          "mediaurl": "v4NshSL1NjI"
+        },
+        {
+          "mediaTitle": "Channel 24",
+          "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg",
+          "mediaurl": "vOXcx_Mj0Q0"
+        },
+        {
+          "mediaTitle": "News 24",
+          "mediaPosterUrl": "http://munshiganjtoday.net/sites/default/files/styles/medium/public/2017-07/maxresdefault.jpg",
+          "mediaurl": "99KztdUqQmo"
+        },
+        {
+          "mediaTitle": "DBC News",
+          "mediaPosterUrl": "https://www.dbcnews.tv/images/default_news.png",
+          "mediaurl": "1Nwg13H5oVk"
+        },
+        {
+          "mediaTitle": "Bloomberg Global News",
+          "mediaPosterUrl": "https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
+          "mediaurl": "Ga3maNZ0x0w"
+        },
+        {
+          "mediaTitle": "Al Jazeera English",
+          "mediaPosterUrl": "http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_al_jazlogo.jpg",
+          "mediaurl": "nVHt1_SWTZg"
+        },
+        {
+          "mediaTitle": "FOX News",
+          "mediaPosterUrl": "http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
+          "mediaurl": "JdxlAuE17HQ"
+        },
+        {
+          "mediaTitle": "Euronews English",
+          "mediaPosterUrl": "https://www.ashurbeyli.ru/public/article/images/47adfe79c73d5ee1104f9ee596ef872529d2637a.jpg",
+          "mediaurl": "Ah04R0okNbQ"
+        },
+        {
+          "mediaTitle": "Sky News",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-uYnyeu0wFpQ/AAAAAAAAAAI/AAAAAAAAAAA/VU2Ct3J_ZQw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "XOacA3RYrXk"
+        },
+        {
+          "mediaTitle": "Newsmax TV",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-C6_CcI6hu8Y/AAAAAAAAAAI/AAAAAAAAAAA/nvfyTFSNXx8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "zsAKZbe7KHw"
+        },
+        {
+          "mediaTitle": "FRANCE 24 English",
+          "mediaPosterUrl": "http://www.noticieroglobal.net/uploads/6/1/6/3/61636759/2266193.png",
+          "mediaurl": "J78SdCzzumA"
+        },
+        {
+          "mediaTitle": "ABC 7 SWFL",
+          "mediaPosterUrl": "http://ftpcontent.worldnow.com/wncustom/custom/wzvn/wzvn_og_image.jpg",
+          "mediaurl": "dV2z7tGeVoI"
+        },
+        {
+          "mediaTitle": "CNN-NEWS18 (India)",
+          "mediaPosterUrl": "http://tvimages.burrp.com/images/channels1/news/CNN%20News%2018.png",
+          "mediaurl": "EDEcOjbDDl8"
+        },
+        {
+          "mediaTitle": "India Today",
+          "mediaPosterUrl": "https://102tube.com/Content/images/channel/Yw/UCYPvAwZP8pZhSMW8qs7cVCw.jpg",
+          "mediaurl": "U5OfAuztJpk"
+        },
+        {
+          "mediaTitle": "NBC2",
+          "mediaPosterUrl": "https://i1.wp.com/pbs.twimg.com/profile_images/509692901484294144/etCTcEvf_200x200.png",
+          "mediaurl": "_egSTyWb1gk"
+        },
+        {
+          "mediaTitle": "TV2 AUSTRALIA",
+          "mediaPosterUrl": "https://102tube.com/Content/images/channel/OQ/UCO7e_DD3X2ZqOyp4DCFgEXQ.jpg",
+          "mediaurl": "QPTtXx1vU5M"
+        },
+        {
+          "mediaTitle": "ANN7 South Africa",
+          "mediaPosterUrl": "https://cdn.apk-cloud.com/detail/image/com.ionicframework.ann7555243-w250.png",
+          "mediaurl": "BGhCHvq8948"
+        },
+        {
+          "mediaTitle": "BOL Network",
+          "mediaPosterUrl": "http://www.customercarepk.com/wp-content/uploads/2016/07/bol-tv-300x300.png",
+          "mediaurl": "7tv8yuZgTvE"
+        },
+        {
+          "mediaTitle": "Africanews",
+          "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png",
+          "mediaurl": "mC4uDq2Oqgc"
+        },
+        {
+          "mediaTitle": "TV9 Gujarati",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "mEY2QHkJGcU"
+        },
+        {
+          "mediaTitle": "TV9 Telugu",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-jU7Ecfsf-DQ/AAAAAAAAAAI/AAAAAAAAAAA/VR5Ga8LBmKQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "HoWJeHL3AEk"
+        },
+        {
+          "mediaTitle": "TV9 Marathi",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-81C2aZ0_jIA/AAAAAAAAAAI/AAAAAAAAAAA/zFrTDdrOdxc/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "F1HRxOerZ7Y"
+        },
+        {
+          "mediaTitle": "Asianet News",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-CvV0HzsT-1A/AAAAAAAAAAI/AAAAAAAAAAA/bi4dfDmGtaU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "qsP3Y4hHyeM"
+        },
+        {
+          "mediaTitle": "IndiaTV",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-VxmxG_1VK_g/AAAAAAAAAAI/AAAAAAAAAAA/CMhiRWPuOMk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "an1_CXsBkKk"
+        },
+        {
+          "mediaTitle": "News18 India",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-AKivlOOZbgM/AAAAAAAAAAI/AAAAAAAAAAA/wm-EP6wlh7k/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "z51eZ1V-3pw"
+        },
+        {
+          "mediaTitle": "Aaj Tak India",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-ZE5JmiUBlGo/AAAAAAAAAAI/AAAAAAAAAAA/JU-NHnMeaY8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "II2BMr4LzcU"
+        },
+        {
+          "mediaTitle": "DD News India",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-To2bJ5pE_qo/AAAAAAAAAAI/AAAAAAAAAAA/U5H5BPelJts/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "WNna4W4jLek"
+        },
+        {
+          "mediaTitle": "NTV Telugu",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-I86FHHZ9FqQ/AAAAAAAAAAI/AAAAAAAAAAA/3SlAT9W9O8s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "8EFSLb91mb8"
+        },
+        {
+          "mediaTitle": "SAMAA TV Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "wwY4lq1TRa0"
+        },
+        {
+          "mediaTitle": "AP1 HD Nepal",
+          "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
+          "mediaurl": "TUCe0fqSU_k"
+        },
+        {
+          "mediaTitle": "KBS World TV Korea",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-TlpMWJAqYHc/AAAAAAAAAAI/AAAAAAAAAAA/HYhmyrnj0SQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "NCLQN16Lyb4"
+        },
+        {
+          "mediaTitle": "YTN News Korea",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-4Gb7JgteaHk/AAAAAAAAAAI/AAAAAAAAAAA/fRo3qjpM2sk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "aR8Fe1lTKHo"
+        },
+        {
+          "mediaTitle": "ARIRANG TV Korea",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "kUfTRKWPEwQ"
+        },
+        {
+          "mediaTitle": "BBC Persian",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-akDg98kRRNQ/AAAAAAAAAAI/AAAAAAAAAAA/GGNY7g_3VEc/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "FCKruF2LZNs"
+        },
+        {
+          "mediaTitle": "BBC Arabic",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-FunttT2po-U/AAAAAAAAAAI/AAAAAAAAAAA/eIfP21fiXu4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "HxI2TxhhS9A"
+        },
+        {
+          "mediaTitle": "Todo Noticias (TN) Argentina",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-3alNghFOor4/AAAAAAAAAAI/AAAAAAAAAAA/S7aGmIKGJPE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "0tek2aa8hAQ"
+        },
+        {
+          "mediaTitle": "A24 Argentina",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-lXcUnjq0pPU/AAAAAAAAAAI/AAAAAAAAAAA/2AGPtVKpL50/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "kLlI76mNygk"
+        },
+        {
+          "mediaTitle": "Russia-24",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-Cku6e-TSRzw/AAAAAAAAAAI/AAAAAAAAAAA/idA6RiypKzk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "K59KKnIbIaM"
+        }
+      ]
+    }
+  ]
 }
