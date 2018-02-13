@@ -257,7 +257,12 @@
                "mediaTitle":"Russia-24",
                "mediaPosterUrl":"https://yt3.ggpht.com/-Cku6e-TSRzw/AAAAAAAAAAI/AAAAAAAAAAA/idA6RiypKzk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
                "mediaurl":"UC_IEcnNeHc_bwd92Ber-lew"
-            }           
+            },
+            {  
+               "mediaTitle":"China Global TV Network (CGTN)",
+               "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png",
+               "mediaurl":"UC_IEcnNeHc_bwd92Ber-lew"
+            }             
          ]
       }
    ]
