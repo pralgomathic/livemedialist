@@ -261,8 +261,18 @@
             {  
                "mediaTitle":"China Global TV Network (CGTN)",
                "mediaPosterUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png",
-               "mediaurl":"UC_IEcnNeHc_bwd92Ber-lew"
-            }             
+               "mediaurl":"UCviqjOZN3ZvDEmZfHuUKCIQ"
+            },
+            {  
+               "mediaTitle":"Chung T'ien TV (China)",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-oT_rZXRB2ws/AAAAAAAAAAI/AAAAAAAAAAA/gZAHLeO5jZM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+               "mediaurl":"UC5l1Yto5oOIgRXlI4p4VKbw"
+            },
+            {  
+               "mediaTitle":"CCTV-4 (China)",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-hceeGNhUboY/AAAAAAAAAAI/AAAAAAAAAAA/IH7EBGIDhW8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+               "mediaurl":"UC4K_LI-Tn3-LshNgG0-YypQ"
+            }                    
          ]
       }
    ]
