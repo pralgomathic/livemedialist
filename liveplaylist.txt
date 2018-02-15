@@ -2,11 +2,16 @@
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
   "mediaurl": "gjFmywmgmKE",
-  "mediaDescription": "GTV | LIVE",
+  "mediaDescription": "Gtv Live | জিটিভি লাইভ | Powered by Rabbithole",
   "medialist": [
     {
       "sectionTitle": "Live TV",
       "mediaDetails": [
+        {
+          "mediaTitle": "Gazi TV",
+          "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
+          "mediaurl": "gjFmywmgmKE"
+        },
         {
           "mediaTitle": "Somoy TV",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
@@ -15,7 +20,7 @@
         {
           "mediaTitle": "NTV",
           "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/181px-NTV_%28Bangladesh%29_logo.svg.png",
-          "mediaurl": "iF2URh5oNJY"
+          "mediaurl": "D8V84ghTRMA"
         },
         {
           "mediaTitle": "ATN News",
@@ -33,11 +38,6 @@
           "mediaurl": "99KztdUqQmo"
         },
         {
-          "mediaTitle": "DBC News",
-          "mediaPosterUrl": "https://www.dbcnews.tv/images/default_news.png",
-          "mediaurl": "1Nwg13H5oVk"
-        },
-        {
           "mediaTitle": "Bloomberg Global News",
           "mediaPosterUrl": "https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
           "mediaurl": "Ga3maNZ0x0w"
@@ -46,11 +46,6 @@
           "mediaTitle": "Al Jazeera English",
           "mediaPosterUrl": "http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_al_jazlogo.jpg",
           "mediaurl": "nVHt1_SWTZg"
-        },
-        {
-          "mediaTitle": "FOX News",
-          "mediaPosterUrl": "http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
-          "mediaurl": "JdxlAuE17HQ"
         },
         {
           "mediaTitle": "Euronews English",
@@ -80,7 +75,7 @@
         {
           "mediaTitle": "CNN-NEWS18 (India)",
           "mediaPosterUrl": "http://tvimages.burrp.com/images/channels1/news/CNN%20News%2018.png",
-          "mediaurl": "EDEcOjbDDl8"
+          "mediaurl": "zpoAEhJvlxU"
         },
         {
           "mediaTitle": "India Today",
@@ -125,7 +120,7 @@
         {
           "mediaTitle": "TV9 Marathi",
           "mediaPosterUrl": "https://yt3.ggpht.com/-81C2aZ0_jIA/AAAAAAAAAAI/AAAAAAAAAAA/zFrTDdrOdxc/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "F1HRxOerZ7Y"
+          "mediaurl": "z5JTPPcMJyw"
         },
         {
           "mediaTitle": "Asianet News",
@@ -140,7 +135,7 @@
         {
           "mediaTitle": "News18 India",
           "mediaPosterUrl": "https://yt3.ggpht.com/-AKivlOOZbgM/AAAAAAAAAAI/AAAAAAAAAAA/wm-EP6wlh7k/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "z51eZ1V-3pw"
+          "mediaurl": "sFoEaEuFW_4"
         },
         {
           "mediaTitle": "Aaj Tak India",
@@ -158,6 +153,16 @@
           "mediaurl": "8EFSLb91mb8"
         },
         {
+          "mediaTitle": "ETV Live News",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-2x7L6egOiug/AAAAAAAAAAI/AAAAAAAAAAA/hj3dk5G7ECE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "nd02q7Rhk_U"
+        },
+        {
+          "mediaTitle": "Geo News Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "adX6VHHzYXI"
+        },
+        {
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "wwY4lq1TRa0"
@@ -165,7 +170,7 @@
         {
           "mediaTitle": "AP1 HD Nepal",
           "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
-          "mediaurl": "TUCe0fqSU_k"
+          "mediaurl": "XAZhrF_Mtqc"
         },
         {
           "mediaTitle": "KBS World TV Korea",
@@ -212,18 +217,17 @@
           "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png",
           "mediaurl": "FdN9xxyAkyc"
         },
-        {  
-           "mediaTitle":"Chung T'ien TV (China)",
-           "mediaPosterUrl":"https://yt3.ggpht.com/-oT_rZXRB2ws/AAAAAAAAAAI/AAAAAAAAAAA/gZAHLeO5jZM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-           "mediaurl":"wUPPkSANpyo"
+        {
+          "mediaTitle": "Chung T\u0027ien TV (China)",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-oT_rZXRB2ws/AAAAAAAAAAI/AAAAAAAAAAA/gZAHLeO5jZM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "wUPPkSANpyo"
         },
-        {  
-           "mediaTitle":"CCTV-4 (China)",
-           "mediaPosterUrl":"https://yt3.ggpht.com/-hceeGNhUboY/AAAAAAAAAAI/AAAAAAAAAAA/IH7EBGIDhW8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-           "mediaurl":"vCDDYb_M2B4"
-        }   
+        {
+          "mediaTitle": "CCTV-4 (China)",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-hceeGNhUboY/AAAAAAAAAAI/AAAAAAAAAAA/IH7EBGIDhW8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "vCDDYb_M2B4"
+        }
       ]
     }
   ]
 }
-
