@@ -1,9 +1,9 @@
 {  
    "mediaTitle":"Gazi TV",
    "mediaPosterUrl":"http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-   "mediaurl":"UCCNGtLTGyYKm6RhVzrnyPCA",
-   "fixedVideoURL":"gjFmywmgmKE",
-   "mediaDescription":"GTV | LIVE",
+   "mediaurl":"UCTl3QQTvqHFjurroKxexy2Q",
+   "fixedVideoURL":"d-73-Cr0tQs",
+   "mediaDescription":"PyeongChang 2018 Olympic Winter Games | LIVE",
    "medialist":[  
       {  
          "sectionTitle":"Live TV",
