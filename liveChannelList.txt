@@ -71,7 +71,7 @@
             {  
                "mediaTitle":"CNN News",
                "mediaPosterUrl":"http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2015/02/cnn400.jpg",
-               "mediaurl":"UCP4bpkEv2eIl1CPPI5_mh2g"
+               "mediaurl":"UCRYapPY01dcwEiqi1ThAO5w"
             },
             {  
                "mediaTitle":"BBC",
@@ -81,7 +81,7 @@
             {  
                "mediaTitle":"FOX News",
                "mediaPosterUrl":"http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
-               "mediaurl":"UCRAsdO1VRZqBuPRSnSiNgiw"
+               "mediaurl":"UCReE83CfPq-xst3zsWjAgKQ"
             },
             {  
                "mediaTitle":"Euronews English",
