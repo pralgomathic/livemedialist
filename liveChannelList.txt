@@ -31,7 +31,7 @@
             {  
                "mediaTitle":"RTV",
                "mediaPosterUrl":"http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg",
-               "mediaurl":"UCR0hSGudjeZfnGL3uodU9Sw"
+               "mediaurl":"UCnrzBwa4CAzyAxU8xOc2Eug"
             },
             {  
                "mediaTitle":"Channel 24",
