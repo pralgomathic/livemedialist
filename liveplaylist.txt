@@ -1,14 +1,14 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "d-73-Cr0tQs",
-  "mediaDescription": "PyeongChang 2018 Olympic Winter Games | LIVE",
+  "mediaurl": "fPfQNjkgJjs",
+  "mediaDescription": "LIVE 🔴 | Olympic Channel News | PyeongChang 2018",
   "medialist": [
     {
       "sectionTitle": "Live TV",
       "mediaDetails": [
         {
-          "mediaTitle": "GTV",
+          "mediaTitle": "Gazi TV",
           "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
           "mediaurl": "fyoo6TvwqG4"
         },
@@ -38,6 +38,11 @@
           "mediaurl": "99KztdUqQmo"
         },
         {
+          "mediaTitle": "DBC News",
+          "mediaPosterUrl": "https://www.dbcnews.tv/images/default_news.png",
+          "mediaurl": "8llTVV0hEu8"
+        },
+        {
           "mediaTitle": "Bloomberg Global News",
           "mediaPosterUrl": "https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
           "mediaurl": "Ga3maNZ0x0w"
@@ -53,14 +58,9 @@
           "mediaurl": "nVHt1_SWTZg"
         },
         {
-          "mediaTitle": "CNN News",
-          "mediaPosterUrl": "http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2015/02/cnn400.jpg",
-          "mediaurl": "aT7P-wwJV3A"
-        },
-        {
           "mediaTitle": "FOX News",
           "mediaPosterUrl": "http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
-          "mediaurl": "0Gjja_iZfL4"
+          "mediaurl": "6fKNCJx1j3I"
         },
         {
           "mediaTitle": "Euronews English",
@@ -125,7 +125,7 @@
         {
           "mediaTitle": "TV9 Gujarati",
           "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "x2bK3kEeQx8"
+          "mediaurl": "ZkMvuTavUl4"
         },
         {
           "mediaTitle": "TV9 Telugu",
@@ -168,6 +168,16 @@
           "mediaurl": "8EFSLb91mb8"
         },
         {
+          "mediaTitle": "ETV Live News",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-2x7L6egOiug/AAAAAAAAAAI/AAAAAAAAAAA/hj3dk5G7ECE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "nd02q7Rhk_U"
+        },
+        {
+          "mediaTitle": "Geo News Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "adX6VHHzYXI"
+        },
+        {
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "wwY4lq1TRa0"
@@ -175,7 +185,7 @@
         {
           "mediaTitle": "AP1 HD Nepal",
           "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
-          "mediaurl": "XAZhrF_Mtqc"
+          "mediaurl": "rAtIbyKT9R0"
         },
         {
           "mediaTitle": "KBS World TV Korea",
