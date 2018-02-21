@@ -1,17 +1,12 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "fPfQNjkgJjs",
-  "mediaDescription": "PyeongChang 2018 Olympic Winter Games | Live",
+  "mediaurl": "d-73-Cr0tQs",
+  "mediaDescription": "PyeongChang 2018 Olympic Winter Games | LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
       "mediaDetails": [
-        {
-          "mediaTitle": "Gazi TV",
-          "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
-          "mediaurl": "fyoo6TvwqG4"
-        },
         {
           "mediaTitle": "Somoy TV",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
@@ -30,12 +25,12 @@
         {
           "mediaTitle": "RTV",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg",
-          "mediaurl": "PQleRlaevM4"
+          "mediaurl": "whK5g3OrSxk"
         },
         {
           "mediaTitle": "Channel 24",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg",
-          "mediaurl": "yzfdFd3eULU"
+          "mediaurl": "U30yO41Xq28"
         },
         {
           "mediaTitle": "News 24",
@@ -43,19 +38,9 @@
           "mediaurl": "99KztdUqQmo"
         },
         {
-          "mediaTitle": "DBC News",
-          "mediaPosterUrl": "https://www.dbcnews.tv/images/default_news.png",
-          "mediaurl": "8llTVV0hEu8"
-        },
-        {
           "mediaTitle": "Bloomberg Global News",
           "mediaPosterUrl": "https://www.55-ip.com/wp-content/uploads/2017/06/7896.jpg",
           "mediaurl": "Ga3maNZ0x0w"
-        },
-        {
-          "mediaTitle": "ABC News(Australia)",
-          "mediaPosterUrl": "https://www.morrowsodali.com/images/news/1507545627-abc-news-og-data.jpg",
-          "mediaurl": "oYO-itBizz0"
         },
         {
           "mediaTitle": "Al Jazeera English",
@@ -65,7 +50,7 @@
         {
           "mediaTitle": "FOX News",
           "mediaPosterUrl": "http://www.kennythepirate.com/wp-content/uploads/2017/12/fox-news.png",
-          "mediaurl": "6fKNCJx1j3I"
+          "mediaurl": "4KRpPaD5dJs"
         },
         {
           "mediaTitle": "Euronews English",
@@ -155,7 +140,7 @@
         {
           "mediaTitle": "News18 India",
           "mediaPosterUrl": "https://yt3.ggpht.com/-AKivlOOZbgM/AAAAAAAAAAI/AAAAAAAAAAA/wm-EP6wlh7k/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "sFoEaEuFW_4"
+          "mediaurl": "234lWf8g7Nk"
         },
         {
           "mediaTitle": "Aaj Tak India",
@@ -171,16 +156,6 @@
           "mediaTitle": "NTV Telugu",
           "mediaPosterUrl": "https://yt3.ggpht.com/-I86FHHZ9FqQ/AAAAAAAAAAI/AAAAAAAAAAA/3SlAT9W9O8s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "8EFSLb91mb8"
-        },
-        {
-          "mediaTitle": "ETV Live News",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-2x7L6egOiug/AAAAAAAAAAI/AAAAAAAAAAA/hj3dk5G7ECE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "nd02q7Rhk_U"
-        },
-        {
-          "mediaTitle": "Geo News Pakistan",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "adX6VHHzYXI"
         },
         {
           "mediaTitle": "SAMAA TV Pakistan",
