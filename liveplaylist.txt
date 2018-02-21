@@ -7,6 +7,11 @@
     {
       "sectionTitle": "Live TV",
       "mediaDetails": [
+      {
+          "mediaTitle": "GTV",
+          "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
+          "mediaurl": "fyoo6TvwqG4"
+        },
         {
           "mediaTitle": "Somoy TV",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg",
