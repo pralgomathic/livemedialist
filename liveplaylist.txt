@@ -1,8 +1,8 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "E7meKjsePGA",
-  "mediaDescription": "Pakistan Super League(PSL)|PZ vs MS| LIVE",
+  "mediaurl": "ryn4iXWHxqA",
+  "mediaDescription": "Pakistan Super League(PSL)| PZ vs MS | LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
