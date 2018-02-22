@@ -1,8 +1,8 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "d-73-Cr0tQs",
-  "mediaDescription": "PyeongChang 2018 Olympic Winter Games | LIVE",
+  "mediaurl": "E7meKjsePGA",
+  "mediaDescription": "Pakistan Super League(PSL)|PZ vs MS| LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
