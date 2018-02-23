@@ -1,8 +1,8 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "SXmmrfHxvm0",
-  "mediaDescription": "PSL 2018 Quetta VS Karachi | LIVE",
+  "mediaurl": "d-73-Cr0tQs",
+  "mediaDescription": "PyeongChang 2018 Olympic Winter Games | LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
