@@ -35,7 +35,7 @@
         {
           "mediaTitle": "Channel 24",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg",
-          "mediaurl": "_0g_rAADqS8"
+          "mediaurl": "HvvAGM1oyS4"
         },
         {
           "mediaTitle": "News 24",
