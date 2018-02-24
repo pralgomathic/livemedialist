@@ -163,6 +163,11 @@
           "mediaurl": "8EFSLb91mb8"
         },
         {
+          "mediaTitle": "Geo News Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "adX6VHHzYXI"
+        },
+        {
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "wwY4lq1TRa0"
@@ -231,11 +236,6 @@
           "mediaTitle": "CCTV-4 (China)",
           "mediaPosterUrl": "https://yt3.ggpht.com/-hceeGNhUboY/AAAAAAAAAAI/AAAAAAAAAAA/IH7EBGIDhW8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "vCDDYb_M2B4"
-        },
-        {
-          "mediaTitle": "Channels Television(Nigeria)",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-EfmbMAr7ISA/AAAAAAAAAAI/AAAAAAAAAAA/2Gb_Wdzodn0/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "EzzD0Vs0CjI"
         }
       ]
     }
