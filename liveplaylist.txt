@@ -183,6 +183,11 @@
           "mediaurl": "M4cZ6F7tpdQ"
         },
         {
+          "mediaTitle": "24 News HD Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-obxf1RKfeIY/AAAAAAAAAAI/AAAAAAAAAAA/iQVVVE70LyM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "qTkoQbOkvT4"
+        },
+        {
           "mediaTitle": "AP1 HD Nepal",
           "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
           "mediaurl": "rAtIbyKT9R0"
