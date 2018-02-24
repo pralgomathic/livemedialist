@@ -89,7 +89,7 @@
         },
         {
           "mediaTitle": "India Today",
-          "mediaPosterUrl": "https://102tube.com/Content/images/channel/Yw/UCYPvAwZP8pZhSMW8qs7cVCw.jpg",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-_D48Q-O_Q48/AAAAAAAAAAI/AAAAAAAAAAA/r31m_qnzd7k/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
           "mediaurl": "U5OfAuztJpk"
         },
         {
