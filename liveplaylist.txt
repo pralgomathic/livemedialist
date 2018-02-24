@@ -1,14 +1,14 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "d-73-Cr0tQs",
-  "mediaDescription": "PyeongChang 2018 Olympic Winter Games | LIVE",
+  "mediaurl": "fPfQNjkgJjs",
+  "mediaDescription": "LIVE 🔴 | Olympic Channel News | PyeongChang 2018",
   "medialist": [
     {
       "sectionTitle": "Live TV",
       "mediaDetails": [
-      {
-          "mediaTitle": "GTV",
+        {
+          "mediaTitle": "Gazi TV",
           "mediaPosterUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
           "mediaurl": "fyoo6TvwqG4"
         },
@@ -25,7 +25,7 @@
         {
           "mediaTitle": "ATN News",
           "mediaPosterUrl": "http://www.amarbarta24.com/assets/images/news_images/2015/08/22/18_8747.jpeg",
-          "mediaurl": "v4NshSL1NjI"
+          "mediaurl": "dBJ9YaT9okw"
         },
         {
           "mediaTitle": "RTV",
@@ -89,8 +89,8 @@
         },
         {
           "mediaTitle": "India Today",
-          "mediaPosterUrl": "https://yt3.ggpht.com/-_D48Q-O_Q48/AAAAAAAAAAI/AAAAAAAAAAA/r31m_qnzd7k/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
-          "mediaurl": "U5OfAuztJpk"
+          "mediaPosterUrl": "https://102tube.com/Content/images/channel/Yw/UCYPvAwZP8pZhSMW8qs7cVCw.jpg",
+          "mediaurl": "62rmi9KMvVE"
         },
         {
           "mediaTitle": "NBC2",
@@ -120,7 +120,7 @@
         {
           "mediaTitle": "TV9 Gujarati",
           "mediaPosterUrl": "https://yt3.ggpht.com/-Z3bQq5NrYb4/AAAAAAAAAAI/AAAAAAAAAAA/9mAMUW6JXxw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "ZkMvuTavUl4"
+          "mediaurl": "m6JkKPjTvCc"
         },
         {
           "mediaTitle": "TV9 Telugu",
@@ -150,7 +150,7 @@
         {
           "mediaTitle": "Aaj Tak India",
           "mediaPosterUrl": "https://yt3.ggpht.com/-ZE5JmiUBlGo/AAAAAAAAAAI/AAAAAAAAAAA/JU-NHnMeaY8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "II2BMr4LzcU"
+          "mediaurl": "X7Ktabhd8a4"
         },
         {
           "mediaTitle": "DD News India",
@@ -161,6 +161,11 @@
           "mediaTitle": "NTV Telugu",
           "mediaPosterUrl": "https://yt3.ggpht.com/-I86FHHZ9FqQ/AAAAAAAAAAI/AAAAAAAAAAA/3SlAT9W9O8s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "8EFSLb91mb8"
+        },
+        {
+          "mediaTitle": "ETV News",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-2x7L6egOiug/AAAAAAAAAAI/AAAAAAAAAAA/hj3dk5G7ECE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "d146o95c5FM"
         },
         {
           "mediaTitle": "News7 Tamil",
@@ -175,7 +180,7 @@
         {
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "wwY4lq1TRa0"
+          "mediaurl": "TnvrHuxp18I"
         },
         {
           "mediaTitle": "NewsOne Pakistan",
@@ -225,7 +230,7 @@
         {
           "mediaTitle": "A24 Argentina",
           "mediaPosterUrl": "https://yt3.ggpht.com/-lXcUnjq0pPU/AAAAAAAAAAI/AAAAAAAAAAA/2AGPtVKpL50/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "kLlI76mNygk"
+          "mediaurl": "TU7NLHt646E"
         },
         {
           "mediaTitle": "Russia-24",
