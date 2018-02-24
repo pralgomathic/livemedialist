@@ -213,6 +213,11 @@
                "mediaPosterUrl":"https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
                "mediaurl":"UCJekW1Vj5fCVEGdye_mBN6Q"
             },
+             {  
+               "mediaTitle":"NewsOne Pakistan",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-EdcWin0BPLE/AAAAAAAAAAI/AAAAAAAAAAA/Joe2xY5sVt8/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
+               "mediaurl":"UCjHWKUbljF4hp3s5PbgK9uA"
+            },
             {  
                "mediaTitle":"AP1 HD Nepal",
                "mediaPosterUrl":"https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
@@ -272,7 +277,12 @@
                "mediaTitle":"CCTV-4 (China)",
                "mediaPosterUrl":"https://yt3.ggpht.com/-hceeGNhUboY/AAAAAAAAAAI/AAAAAAAAAAA/IH7EBGIDhW8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
                "mediaurl":"UC4K_LI-Tn3-LshNgG0-YypQ"
-            }                    
+            },
+            {  
+               "mediaTitle":"Channels Television(Nigeria)",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-EfmbMAr7ISA/AAAAAAAAAAI/AAAAAAAAAAA/2Gb_Wdzodn0/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+               "mediaurl":"UCEXGDNclvmg6RW0vipJYsTQ"
+            }                      
          ]
       }
    ]
