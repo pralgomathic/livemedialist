@@ -163,6 +163,11 @@
           "mediaurl": "8EFSLb91mb8"
         },
         {
+          "mediaTitle": "News7 Tamil",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-2l7MfvM53NI/AAAAAAAAAAI/AAAAAAAAAAA/r3eUuFf6Dho/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "GkoMF0iKe-w"
+        },
+        {
           "mediaTitle": "Geo News Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-dAWSnABp9ZI/AAAAAAAAAAI/AAAAAAAAAAA/XNBjMdo8w_U/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "adX6VHHzYXI"
