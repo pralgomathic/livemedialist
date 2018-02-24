@@ -199,9 +199,14 @@
                "mediaurl":"UCumtYpCY26F6Jr3satUgMvA"
             },
             {  
-               "mediaTitle":"ETV Live News",
+               "mediaTitle":"ETV News",
                "mediaPosterUrl":"https://yt3.ggpht.com/-2x7L6egOiug/AAAAAAAAAAI/AAAAAAAAAAA/hj3dk5G7ECE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
                "mediaurl":"UCSbwShxZsBiqqWwtUidmS6g"
+            },
+            {  
+               "mediaTitle":"News7 Tamil",
+               "mediaPosterUrl":"https://yt3.ggpht.com/-2l7MfvM53NI/AAAAAAAAAAI/AAAAAAAAAAA/r3eUuFf6Dho/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+               "mediaurl":"UCGyZswzm4G-wEfRQHgMSAuw"
             },
             {  
                "mediaTitle":"Geo News Pakistan",
