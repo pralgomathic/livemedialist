@@ -168,6 +168,11 @@
           "mediaurl": "wwY4lq1TRa0"
         },
         {
+          "mediaTitle": "NewsOne Pakistan",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-EdcWin0BPLE/AAAAAAAAAAI/AAAAAAAAAAA/Joe2xY5sVt8/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
+          "mediaurl": "M4cZ6F7tpdQ"
+        },
+        {
           "mediaTitle": "AP1 HD Nepal",
           "mediaPosterUrl": "https://merorojgari.com/wp-content/uploads/2016/10/ap1hdtv-200x200.jpg",
           "mediaurl": "rAtIbyKT9R0"
@@ -226,6 +231,11 @@
           "mediaTitle": "CCTV-4 (China)",
           "mediaPosterUrl": "https://yt3.ggpht.com/-hceeGNhUboY/AAAAAAAAAAI/AAAAAAAAAAA/IH7EBGIDhW8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "mediaurl": "vCDDYb_M2B4"
+        },
+        {
+          "mediaTitle": "Channels Television(Nigeria)",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-EfmbMAr7ISA/AAAAAAAAAAI/AAAAAAAAAAA/2Gb_Wdzodn0/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "mediaurl": "EzzD0Vs0CjI"
         }
       ]
     }
