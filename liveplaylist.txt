@@ -30,12 +30,12 @@
         {
           "mediaTitle": "RTV",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg",
-          "mediaurl": "whK5g3OrSxk"
+          "mediaurl": "f3sIy22dx7s"
         },
         {
           "mediaTitle": "Channel 24",
           "mediaPosterUrl": "http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg",
-          "mediaurl": "HvvAGM1oyS4"
+          "mediaurl": "jp7hJ9nvuB4"
         },
         {
           "mediaTitle": "News 24",
@@ -110,7 +110,7 @@
         {
           "mediaTitle": "BOL Network",
           "mediaPosterUrl": "http://www.customercarepk.com/wp-content/uploads/2016/07/bol-tv-300x300.png",
-          "mediaurl": "7tv8yuZgTvE"
+          "mediaurl": "OPyPNqaEzDo"
         },
         {
           "mediaTitle": "Africanews",
@@ -190,7 +190,7 @@
         {
           "mediaTitle": "24 News HD Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-obxf1RKfeIY/AAAAAAAAAAI/AAAAAAAAAAA/iQVVVE70LyM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "qTkoQbOkvT4"
+          "mediaurl": "vaKZs1a2zys"
         },
         {
           "mediaTitle": "AP1 HD Nepal",
