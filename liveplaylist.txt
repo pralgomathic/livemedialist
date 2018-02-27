@@ -1,8 +1,8 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "fPfQNjkgJjs",
-  "mediaDescription": "LIVE 🔴 | Olympic Channel News | PyeongChang 2018",
+  "mediaurl": "d-73-Cr0tQs",
+  "mediaDescription": "PyeongChang 2018 Olympic Winter Games | LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
@@ -180,7 +180,7 @@
         {
           "mediaTitle": "SAMAA TV Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-yAwZ_IWmLIE/AAAAAAAAAAI/AAAAAAAAAAA/5CXqKU_WKLI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "TnvrHuxp18I"
+          "mediaurl": "nLAJtEWMQog"
         },
         {
           "mediaTitle": "NewsOne Pakistan",
@@ -190,7 +190,7 @@
         {
           "mediaTitle": "24 News HD Pakistan",
           "mediaPosterUrl": "https://yt3.ggpht.com/-obxf1RKfeIY/AAAAAAAAAAI/AAAAAAAAAAA/iQVVVE70LyM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
-          "mediaurl": "vaKZs1a2zys"
+          "mediaurl": "dPcnexjJ41Y"
         },
         {
           "mediaTitle": "AP1 HD Nepal",
