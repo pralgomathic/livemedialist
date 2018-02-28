@@ -2,7 +2,7 @@
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
   "mediaurl": "1Cs0qyG78qY",
-  "mediaDescription": "Lofi hip hop radio - beats to relax/study| LIVE",
+  "mediaDescription": "Lofi hip hop radio - beats to relax/study | LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
@@ -89,7 +89,7 @@
         },
         {
           "mediaTitle": "India Today",
-          "mediaPosterUrl": "https://102tube.com/Content/images/channel/Yw/UCYPvAwZP8pZhSMW8qs7cVCw.jpg",
+          "mediaPosterUrl": "https://yt3.ggpht.com/-_D48Q-O_Q48/AAAAAAAAAAI/AAAAAAAAAAA/r31m_qnzd7k/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
           "mediaurl": "62rmi9KMvVE"
         },
         {
