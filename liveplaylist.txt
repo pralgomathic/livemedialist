@@ -1,8 +1,8 @@
 {
   "mediaTitle": "Gazi TV",
   "mediaPosterUrl": "http://www.gizzellejames.com/wp-content/uploads/2017/11/clashroyale_25.jpg",
-  "mediaurl": "d-73-Cr0tQs",
-  "mediaDescription": "PyeongChang 2018 Olympic Winter Games | LIVE",
+  "mediaurl": "1Cs0qyG78qY",
+  "mediaDescription": "Lofi hip hop radio - beats to relax/study| LIVE",
   "medialist": [
     {
       "sectionTitle": "Live TV",
